@@ -1,8 +1,0 @@
-2021/03/27-10:04:01.116 1b624 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_jacksnotes.shabang.cf_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/27-10:04:01.117 1b624 Recovering log #4
-2021/03/27-10:04:01.118 1b624 Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_jacksnotes.shabang.cf_0.indexeddb.leveldb/000004.log 
-2021/03/27-10:06:07.191 1b4ee Level-0 table #8: started
-2021/03/27-10:06:07.191 1b4ee Level-0 table #8: 0 bytes OK
-2021/03/27-10:06:07.204 1b4ee Delete type=0 #4
-2021/03/27-10:06:07.204 1b4ee Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/03/27-10:06:07.204 1b4ee Manual compaction at level-1 from (begin) .. (end); will stop at (end)

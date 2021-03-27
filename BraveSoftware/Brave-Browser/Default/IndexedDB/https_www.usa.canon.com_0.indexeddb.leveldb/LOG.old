@@ -1,5 +1,0 @@
-2020/08/18-11:42:35.639 3c44 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.usa.canon.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/18-11:42:48.501 2f66 Level-0 table #5: started
-2020/08/18-11:42:48.505 2f66 Level-0 table #5: 1557 bytes OK
-2020/08/18-11:42:48.512 2f66 Delete type=0 #3
-2020/08/18-11:42:48.512 2f66 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

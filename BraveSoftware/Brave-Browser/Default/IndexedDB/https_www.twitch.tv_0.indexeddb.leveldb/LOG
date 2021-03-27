@@ -1,5 +1,0 @@
-2020/08/18-13:28:43.434 25fe Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/18-13:29:43.175 2a2e Level-0 table #5: started
-2020/08/18-13:29:43.179 2a2e Level-0 table #5: 818 bytes OK
-2020/08/18-13:29:43.183 2a2e Delete type=0 #3
-2020/08/18-13:29:43.183 2a2e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,5 +1,0 @@
-2020/08/18-14:01:44.887 3685 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.techradar.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/18-14:10:40.115 2d7b Level-0 table #5: started
-2020/08/18-14:10:40.121 2d7b Level-0 table #5: 5936 bytes OK
-2020/08/18-14:10:40.125 2d7b Delete type=0 #3
-2020/08/18-14:10:40.125 2d7b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
