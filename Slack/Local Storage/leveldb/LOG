@@ -1,9 +1,3 @@
-2020/10/19-21:54:35.422 12c8 Reusing MANIFEST /home/hliu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2020/10/19-21:54:35.423 12c8 Recovering log #4
-2020/10/19-21:54:35.424 12c8 Reusing old log /home/hliu/.config/Slack/Local Storage/leveldb/000004.log 
-2020/10/20-01:13:48.581 3e57 Level-0 table #8: started
-2020/10/20-01:13:48.591 3e57 Level-0 table #8: 9609 bytes OK
-2020/10/20-01:13:48.604 3e57 Delete type=0 #4
-2020/10/20-08:27:48.636 3e57 Level-0 table #10: started
-2020/10/20-08:27:48.641 3e57 Level-0 table #10: 7546 bytes OK
-2020/10/20-08:27:48.645 3e57 Delete type=0 #7
+2021/03/27-14:51:58.504 d637 Reusing MANIFEST /home/hliu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/03/27-14:51:58.504 d637 Recovering log #9
+2021/03/27-14:51:58.505 d637 Reusing old log /home/hliu/.config/Slack/Local Storage/leveldb/000009.log 

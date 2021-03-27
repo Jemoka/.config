@@ -1,15 +1,15 @@
-2020/08/19-09:54:21.940 2de5 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/19-09:54:21.940 2de5 Recovering log #4
-2020/08/19-09:54:21.940 2de5 Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000004.log 
-2020/08/19-10:21:35.078 31be Level-0 table #8: started
-2020/08/19-10:21:35.084 31be Level-0 table #8: 293388 bytes OK
-2020/08/19-10:21:35.088 31be Delete type=0 #4
-2020/08/19-10:21:35.088 31be Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/08/19-10:21:35.088 31be Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x003\x001\x00f\x008\x00d\x00f\x00d\x00e\x000\x000\x00b\x00c\x005\x002\x006\x008\x00b\x007\x004\x003\x008\x00a\x002\x006\x007\x009\x004\x00b\x00b\x006\x009\x005\x00_\x003\x00_\x002\x00:\x000\x000' @ 898 : 0
-2020/08/19-10:21:35.088 31be Compacting 1@1 + 1@2 files
-2020/08/19-10:21:35.093 31be Generated table #9@1: 72 keys, 68547 bytes
-2020/08/19-10:21:35.093 31be Compacted 1@1 + 1@2 files => 68547 bytes
-2020/08/19-10:21:35.097 31be compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/08/19-10:21:35.097 31be Delete type=2 #5
-2020/08/19-10:21:35.097 31be Delete type=2 #8
-2020/08/19-10:21:35.098 31be Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x003\x001\x00f\x008\x00d\x00f\x00d\x00e\x000\x000\x00b\x00c\x005\x002\x006\x008\x00b\x007\x004\x003\x008\x00a\x002\x006\x007\x009\x004\x00b\x00b\x006\x009\x005\x00_\x003\x00_\x002\x00:\x000\x000' @ 898 : 0 .. (end); will stop at (end)
+2021/03/27-13:49:28.356 539f Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-13:49:28.356 539f Recovering log #7
+2021/03/27-13:49:28.357 539f Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000007.log 
+2021/03/27-14:18:14.269 5c3e Level-0 table #12: started
+2021/03/27-14:18:14.286 5c3e Level-0 table #12: 1106442 bytes OK
+2021/03/27-14:18:14.308 5c3e Delete type=0 #7
+2021/03/27-14:18:14.308 5c3e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/27-14:18:14.308 5c3e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x003\x001\x00f\x008\x00d\x00f\x00d\x00e\x000\x000\x00b\x00c\x005\x002\x006\x008\x00b\x007\x004\x003\x008\x00a\x002\x006\x007\x009\x004\x00b\x00b\x006\x009\x005\x00_\x003\x00_\x002\x00:\x000\x000' @ 1245 : 0
+2021/03/27-14:18:14.308 5c3e Compacting 1@1 + 1@2 files
+2021/03/27-14:18:14.321 5c3e Generated table #13@1: 75 keys, 102976 bytes
+2021/03/27-14:18:14.321 5c3e Compacted 1@1 + 1@2 files => 102976 bytes
+2021/03/27-14:18:14.333 5c3e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-14:18:14.333 5c3e Delete type=2 #9
+2021/03/27-14:18:14.334 5c3e Delete type=2 #12
+2021/03/27-14:18:14.334 5c3e Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x003\x001\x00f\x008\x00d\x00f\x00d\x00e\x000\x000\x00b\x00c\x005\x002\x006\x008\x00b\x007\x004\x003\x008\x00a\x002\x006\x007\x009\x004\x00b\x00b\x006\x009\x005\x00_\x003\x00_\x002\x00:\x000\x000' @ 1245 : 0 .. (end); will stop at (end)

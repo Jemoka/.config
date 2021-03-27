@@ -1,8 +1,15 @@
-2020/08/19-09:54:27.920 2da5 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/08/19-09:54:27.920 2da5 Recovering log #7
-2020/08/19-09:54:27.920 2da5 Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000007.log 
-2020/08/19-10:21:34.998 31be Level-0 table #12: started
-2020/08/19-10:21:34.998 31be Level-0 table #12: 0 bytes OK
-2020/08/19-10:21:35.004 31be Delete type=0 #7
-2020/08/19-10:21:35.005 31be Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/08/19-10:21:35.005 31be Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2021/03/27-11:12:25.004 23b7a Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-11:12:25.004 23b7a Recovering log #11
+2021/03/27-11:12:25.004 23b7a Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000011.log 
+2021/03/27-11:20:43.334 23bbd Level-0 table #15: started
+2021/03/27-11:20:44.600 23bbd Level-0 table #15: 184 bytes OK
+2021/03/27-11:20:44.639 23bbd Delete type=0 #11
+2021/03/27-11:20:44.640 23bbd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/27-11:20:44.640 23bbd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x00' @ 1685 : 1
+2021/03/27-11:20:44.640 23bbd Compacting 1@1 + 1@2 files
+2021/03/27-11:20:45.292 23bbd Generated table #16@1: 272 keys, 63745 bytes
+2021/03/27-11:20:45.292 23bbd Compacted 1@1 + 1@2 files => 63745 bytes
+2021/03/27-11:20:45.312 23bbd compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-11:20:45.312 23bbd Delete type=2 #9
+2021/03/27-11:20:45.312 23bbd Delete type=2 #15
+2021/03/27-11:20:45.312 23bbd Manual compaction at level-1 from '\x00\x00\x00\x00\x00' @ 1685 : 1 .. (end); will stop at (end)

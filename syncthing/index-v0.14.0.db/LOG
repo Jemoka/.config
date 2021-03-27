@@ -1218,3 +1218,16 @@
 13:09:29.488686 table@remove removed @395
 13:09:29.488720 table@remove removed @392
 13:09:29.488919 table@remove removed @391
+14:37:29.403559 db@close closing
+14:37:29.404635 db@close done T·1.074161ms
+=============== Mar 27, 2021 (PDT) ===============
+14:37:30.555573 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:37:30.555802 version@stat F·[0 19] S·37MiB[0B 37MiB] Sc·[0.00 0.37]
+14:37:30.555827 db@open opening
+14:37:30.555922 journal@recovery F·1
+14:37:30.557115 journal@recovery recovering @402
+14:37:30.591324 memdb@flush created L0@405 N·4 S·209B "\x04de..can,v1077493":"\x04qb..can,v1077491"
+14:37:30.592287 version@stat F·[1 19] S·37MiB[209B 37MiB] Sc·[0.25 0.37]
+14:37:30.689356 db@janitor F·23 G·1
+14:37:30.689383 db@janitor removing table-401
+14:37:30.689446 db@open done T·133.609771ms

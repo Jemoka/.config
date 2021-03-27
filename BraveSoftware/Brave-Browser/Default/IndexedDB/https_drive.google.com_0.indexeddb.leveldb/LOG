@@ -1,3 +1,15 @@
-2021/03/27-11:12:04.076 23b7a Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/27-11:12:04.076 23b7a Recovering log #7
-2021/03/27-11:12:04.077 23b7a Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000007.log 
+2021/03/27-14:18:27.261 5c38 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-14:18:27.261 5c38 Recovering log #11
+2021/03/27-14:18:27.261 5c38 Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000011.log 
+2021/03/27-14:18:30.137 5ece Level-0 table #16: started
+2021/03/27-14:18:30.140 5ece Level-0 table #16: 1414 bytes OK
+2021/03/27-14:18:30.144 5ece Delete type=0 #11
+2021/03/27-14:18:30.145 5ece Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/27-14:18:30.145 5d57 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x1d\x001\x000\x007\x002\x009\x003\x003\x000\x005\x008\x003\x007\x003\x005\x001\x000\x008\x001\x000\x009\x007\x00:\x001\x00:\x00#\x00:\x00r\x00i\x00d' @ 2374 : 1
+2021/03/27-14:18:30.145 5d57 Compacting 1@1 + 1@2 files
+2021/03/27-14:18:30.150 5d57 Generated table #17@1: 75 keys, 102976 bytes
+2021/03/27-14:18:30.150 5d57 Compacted 1@1 + 1@2 files => 102976 bytes
+2021/03/27-14:18:30.154 5d57 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-14:18:30.154 5d57 Delete type=2 #16
+2021/03/27-14:18:30.154 5d57 Delete type=2 #13
+2021/03/27-14:18:30.155 5d57 Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x1d\x001\x000\x007\x002\x009\x003\x003\x000\x005\x008\x003\x007\x003\x005\x001\x000\x008\x001\x000\x009\x007\x00:\x001\x00:\x00#\x00:\x00r\x00i\x00d' @ 2374 : 1 .. (end); will stop at (end)

@@ -30,26 +30,45 @@ Plug 'niklas-8/vim-darkspace'
 Plug 'ayu-theme/ayu-vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'ntk148v/vim-horizon'
+Plug 'arcticicestudio/nord-vim'
+Plug 'rakr/vim-one'
 
 "#DEVELOPER TOOLS#"
 Plug 'jceb/vim-orgmode'
 Plug 'tpope/vim-repeat'
 Plug 'honza/vim-snippets'
-Plug '/usr/local/opt/fzf'
+"Plug 'vimwiki/vimwiki'
+Plug 'mbbill/undotree'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
+"Plug 'floobits/floobits-neovim'
+"Plug 'sillybun/vim-repl'
+Plug 'michal-h21/vim-zettel'
+"Plug 'ivanov/vim-ipython'
+"Plug 'jpalardy/vim-slime'
+"Plug 'bfredl/nvim-ipy'
+"Plug 'hkupty/iron.nvim'
+Plug 'urbainvaes/vim-ripple'
+Plug 'vimlab/split-term.vim'
+Plug 'goerz/jupytext.vim'
+Plug 'BurntSushi/ripgrep'
+Plug 'ihsanturk/neuron.vim'
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-surround'
 Plug 'dkarter/bullets.vim'
 Plug 'edkolev/tmuxline.vim'
 Plug 'heavenshell/vim-jsdoc'
 Plug 'tpope/vim-speeddating'
-"Plug 'vim-scripts/taglist.vim'
+Plug 'vim-scripts/taglist.vim'
 Plug 'scrooloose/nerdcommenter'
+Plug 'leafgarland/typescript-vim'
 Plug 'KeitaNakamura/tex-conceal.vim'
 
 "#NEW lANGUAGES#"
 Plug 'lervag/vimtex'
 Plug 'ianks/vim-tsx'
-Plug 'mxw/vim-jsx'
+Plug 'MaxMEllon/vim-jsx-pretty'
 Plug 'pangloss/vim-javascript'
 Plug 'plasticboy/vim-markdown'
 Plug 'ekalinin/Dockerfile.vim'
@@ -68,11 +87,20 @@ call plug#end()
 ""-=-=-=Plugin Configurations=-=-=-"" 
 "#THEME: ayu.vim"
 
-set termguicolors
-let ayucolor="dark"
-colorscheme ayu
+"let ayucolor="dark"
+"colorscheme horizon
 "let g:darkspace_italics=1
-let g:airline_theme='ayu_dark'
+" set Vim-specific sequences for RGB colors
+let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+
+if (has("termguicolors"))
+  set termguicolors
+endif
+
+let ayucolor="mirage" " for mirage version of theme
+colorscheme ayu
+let g:airline_theme='ayu_mirage'
 
 "#AIRLINE#"
 set ttimeoutlen=50
@@ -112,6 +140,9 @@ noremap <silent><expr> <Space>?  incsearch#go(<SID>config_easyfuzzymotion({'comm
 noremap <silent><expr> <Space>g/ incsearch#go(<SID>config_easyfuzzymotion({'is_stay': 1}))
 
 "#AUTOCOMPLETE#"
+" Disable for md, tex, and vim
+autocmd BufNew,BufEnter *.md execute "silent! CocDisable"
+
 " better key bindings for UltiSnipsExpandTrigger
 let g:UltiSnipsExpandTrigger = "jk"
 let g:UltiSnipsJumpForwardTrigger = "jk"
@@ -122,6 +153,7 @@ set updatetime=300
 set shortmess+=c
 " use <TAB> to trigger completion, and C-n to trigger next
 " similarly, use <S-TAB> to trigger completeion backwards, and C-p etc...
+"call coc#config('python', {'pythonPath': "/usr/local/bin/python3.9"})
 inoremap <silent><expr> <TAB>
       \ pumvisible() ? "\<C-n>" :
       \ <SID>check_back_space() ? "\<TAB>" :
@@ -166,7 +198,7 @@ let g:coc_snippet_prev = 'kj'
 
 "#VIMTEX#"
 let g:tex_flavor='latex'
-let g:vimtex_view_method = "mupdf"
+let g:vimtex_view_method = "skim"
 
 "#TEXCONCEAL#"
 set conceallevel=2
@@ -209,32 +241,35 @@ autocmd Filetype ipynb nmap <silent><Leader>jc :VimpyterInsertPythonBlock<CR>
 autocmd Filetype ipynb nmap <silent><Leader>js :VimpyterStartJupyter<CR>
 autocmd Filetype ipynb nmap <silent><Leader>jn :VimpyterStartNteract<CR>
 
-"#Auto-Fcitx#"
-let g:input_toggle = 1
-function! Fcitx2en()
-   let s:input_status = system("fcitx-remote")
-   if s:input_status == 2
-      let g:input_toggle = 1
-      let l:a = system("fcitx-remote -c")
-   endif
-endfunction
+"#Vim-Zettel#"
+let g:vimwiki_markdown_link_ext = 1
+let g:zettel_format = "KB%y%m%d%H%M%S"
+let g:zettel_link_format="[[%link]]"
+let g:zettel_fzf_command = "rg --column --line-number --ignore-case --no-heading --color=always -t markdown"
+nnoremap <leader>zn :ZettelNew<space>
+nnoremap <leader>Z :ZettelOpen<ENTER>
 
-function! Fcitx2zh()
-   let s:input_status = system("fcitx-remote")
-   if s:input_status != 2 && g:input_toggle == 1
-      let l:a = system("fcitx-remote -o")
-      let g:input_toggle = 0
-   endif
-endfunction
+"#vim-ripple#"
+let g:ripple_repls = {
+            \ "python": ["ipython", "\<c-u>\<esc>[200~", "\<esc>[201~", 1],
+            \ "markdown": ["ipython", "\<c-u>\<esc>[200~", "\<esc>[201~", 1],
+            \ "scheme": "guile",
+            \ "sh": "bash"
+            \ }
 
-"set ttimeoutlen=150
-""Exit insert mode
-"autocmd InsertLeave * call Fcitx2en()
-""Enter insert mode
-"autocmd InsertEnter * call Fcitx2zh()
+"#fzf-vim#"
+cnoremap W w
+
+"#EasyFuzzyMotion#"
+map <Leader> <Plug>(easymotion-prefix)
+
+"#Jsdoc#"
+nmap <silent> <leader>jd <Plug>(jsdoc)
 "----------------------------------"
 
 ""-=-=-=-=Keyboard Shortcuts-=-=-="" 
+map <Space> <Leader>
+let g:mapleader=" "
 inoremap jj <Esc>
 noremap <C-j> <C-W>
 noremap <C-k> <C-W>k
@@ -244,7 +279,7 @@ tnoremap j<Esc> <C-\><C-n>
 "----------------------------------"
 
 ""=-=-=-=Interface Settings=-=-=-="" 
-set number
+set nu rnu
 set tabstop=4
 set shiftwidth=4
 set expandtab
@@ -254,6 +289,7 @@ set textwidth=0
 set wrapmargin=0
 set display+=lastline
 set foldmethod=indent
+set timeoutlen=1000 ttimeoutlen=0
 hi clear Conceal 
 hi Conceal cterm=NONE ctermbg=NONE ctermfg=darkblue
 augroup PythonCustomization

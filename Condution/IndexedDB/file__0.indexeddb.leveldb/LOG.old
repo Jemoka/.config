@@ -1,3 +1,41 @@
-2021/03/13-23:35:08.903 d7c9 Reusing MANIFEST /home/hliu/.config/Condution/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2021/03/13-23:35:08.903 d7c9 Recovering log #11
-2021/03/13-23:35:08.957 d7c9 Reusing old log /home/hliu/.config/Condution/IndexedDB/file__0.indexeddb.leveldb/000011.log 
+2021/03/27-08:47:28.754 15c02 Reusing MANIFEST /home/hliu/.config/Condution/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-08:47:28.754 15c02 Recovering log #11
+2021/03/27-08:47:28.788 15c02 Reusing old log /home/hliu/.config/Condution/IndexedDB/file__0.indexeddb.leveldb/000011.log 
+2021/03/27-08:48:17.935 15bca Level-0 table #16: started
+2021/03/27-08:48:17.970 15bca Level-0 table #16: 910934 bytes OK
+2021/03/27-08:48:17.982 15bca Delete type=0 #11
+2021/03/27-08:48:17.986 15bca Compacting 1@1 + 1@2 files
+2021/03/27-08:48:18.019 15bca Generated table #17@1: 8979 keys, 713949 bytes
+2021/03/27-08:48:18.019 15bca Compacted 1@1 + 1@2 files => 713949 bytes
+2021/03/27-08:48:18.031 15bca compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-08:48:18.032 15bca Delete type=2 #16
+2021/03/27-08:48:18.032 15bca Delete type=2 #13
+2021/03/27-08:48:18.170 15bca Level-0 table #19: started
+2021/03/27-08:48:18.196 15bca Level-0 table #19: 773896 bytes OK
+2021/03/27-08:48:18.208 15bca Delete type=0 #15
+2021/03/27-08:48:18.420 15bca Level-0 table #21: started
+2021/03/27-08:48:18.451 15bca Level-0 table #21: 1172038 bytes OK
+2021/03/27-08:48:18.464 15bca Delete type=0 #18
+2021/03/27-08:48:19.075 15bca Compacting 1@0 + 1@1 files
+2021/03/27-08:48:19.147 15bca Generated table #22@0: 26945 keys, 1916167 bytes
+2021/03/27-08:48:19.147 15bca Compacted 1@0 + 1@1 files => 1916167 bytes
+2021/03/27-08:48:19.160 15bca compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/27-08:48:19.160 15bca Delete type=2 #19
+2021/03/27-08:48:19.160 15bca Delete type=2 #21
+2021/03/27-08:48:19.172 15bca Compacting 1@1 + 1@2 files
+2021/03/27-08:48:19.237 15bca Generated table #23@1: 30135 keys, 2209526 bytes
+2021/03/27-08:48:19.258 15bca Generated table #24@1: 5780 keys, 401424 bytes
+2021/03/27-08:48:19.258 15bca Compacted 1@1 + 1@2 files => 2610950 bytes
+2021/03/27-08:48:19.270 15bca compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/03/27-08:48:19.271 15bca Delete type=2 #22
+2021/03/27-08:48:19.271 15bca Delete type=2 #17
+2021/03/27-08:48:26.761 15bca Level-0 table #26: started
+2021/03/27-08:48:26.780 15bca Level-0 table #26: 826772 bytes OK
+2021/03/27-08:48:26.785 15bca Delete type=0 #20
+2021/03/27-08:48:35.009 15bd6 Compacting 1@1 + 2@2 files
+2021/03/27-08:48:35.073 15bd6 Generated table #27@1: 19446 keys, 2073017 bytes
+2021/03/27-08:48:35.073 15bd6 Compacted 1@1 + 2@2 files => 2073017 bytes
+2021/03/27-08:48:35.077 15bd6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-08:48:35.077 15bd6 Delete type=2 #24
+2021/03/27-08:48:35.077 15bd6 Delete type=2 #26
+2021/03/27-08:48:35.077 15bd6 Delete type=2 #23

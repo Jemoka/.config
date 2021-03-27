@@ -1,3 +1,15 @@
-2021/03/27-13:00:23.408 82e Reusing MANIFEST /home/hliu/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2021/03/27-13:00:23.411 82e Recovering log #15
-2021/03/27-13:00:23.412 82e Reusing old log /home/hliu/.config/discord/Local Storage/leveldb/000015.log 
+2021/03/27-13:12:59.733 3336 Reusing MANIFEST /home/hliu/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/03/27-13:12:59.734 3336 Recovering log #15
+2021/03/27-13:12:59.735 3336 Reusing old log /home/hliu/.config/discord/Local Storage/leveldb/000015.log 
+2021/03/27-13:14:00.642 3566 Level-0 table #19: started
+2021/03/27-13:14:00.645 3566 Level-0 table #19: 13064 bytes OK
+2021/03/27-13:14:00.650 3566 Delete type=0 #15
+2021/03/27-13:14:00.650 3566 Compacting 4@0 + 1@1 files
+2021/03/27-13:14:00.655 3566 Generated table #20@0: 73 keys, 13866 bytes
+2021/03/27-13:14:00.655 3566 Compacted 4@0 + 1@1 files => 13866 bytes
+2021/03/27-13:14:00.658 3566 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/27-13:14:00.659 3566 Delete type=2 #19
+2021/03/27-13:14:00.659 3566 Delete type=2 #10
+2021/03/27-13:14:00.659 3566 Delete type=2 #7
+2021/03/27-13:14:00.659 3566 Delete type=2 #16
+2021/03/27-13:14:00.659 3566 Delete type=2 #13
