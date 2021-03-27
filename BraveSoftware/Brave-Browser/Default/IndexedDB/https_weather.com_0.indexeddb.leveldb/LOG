@@ -1,0 +1,7 @@
+2020/08/18-19:09:06.849 4bba Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_weather.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/18-19:09:06.850 4bba Recovering log #3
+2020/08/18-19:09:06.850 4bba Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_weather.com_0.indexeddb.leveldb/000003.log 
+2020/08/18-19:19:46.968 2644 Level-0 table #5: started
+2020/08/18-19:19:46.978 2644 Level-0 table #5: 1222 bytes OK
+2020/08/18-19:19:46.990 2644 Delete type=0 #3
+2020/08/18-19:19:46.990 2644 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

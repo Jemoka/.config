@@ -1,0 +1,15 @@
+2021/03/27-10:18:30.726 1b975 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_track.toggl.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-10:18:30.726 1b975 Recovering log #7
+2021/03/27-10:18:30.726 1b975 Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_track.toggl.com_0.indexeddb.leveldb/000007.log 
+2021/03/27-10:18:50.079 1b6bb Level-0 table #12: started
+2021/03/27-10:18:50.084 1b6bb Level-0 table #12: 23920 bytes OK
+2021/03/27-10:18:50.088 1b6bb Delete type=0 #7
+2021/03/27-10:18:50.088 1b6bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/27-10:18:50.088 1b6bb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x0f\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x005\x000\x001\x001\x006\x004\x002' @ 1298 : 1
+2021/03/27-10:18:50.088 1b6bb Compacting 1@1 + 1@2 files
+2021/03/27-10:18:50.092 1b6bb Generated table #13@1: 174 keys, 5534 bytes
+2021/03/27-10:18:50.092 1b6bb Compacted 1@1 + 1@2 files => 5534 bytes
+2021/03/27-10:18:50.096 1b6bb compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/27-10:18:50.096 1b6bb Delete type=2 #9
+2021/03/27-10:18:50.096 1b6bb Delete type=2 #12
+2021/03/27-10:18:50.096 1b6bb Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x0f\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x005\x000\x001\x001\x006\x004\x002' @ 1298 : 1 .. (end); will stop at (end)

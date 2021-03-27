@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <rect id="110-large-a" width="48" height="20" rx="8"/>
+    <circle id="110-large-c" cx="10" cy="10" r="4"/>
+    <circle id="110-large-d" cx="38" cy="10" r="4"/>
+    <rect id="110-large-e" width="48" height="20" rx="8"/>
+    <circle id="110-large-g" cx="10" cy="10" r="4"/>
+    <circle id="110-large-h" cx="38" cy="10" r="4"/>
+    <rect id="110-large-i" width="48" height="20" rx="8"/>
+    <circle id="110-large-k" cx="10" cy="10" r="4"/>
+    <circle id="110-large-l" cx="38" cy="10" r="4"/>
+    <rect id="110-large-m" width="36" height="4" x="14" y="19"/>
+    <rect id="110-large-n" width="36" height="4" x="14" y="41"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(8 44)">
+      <mask id="110-large-b" fill="#fff">
+        <use xlink:href="#110-large-a"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#110-large-a"/>
+      <rect width="47" height="19" x=".5" y=".5" stroke="#737680" rx="8"/>
+      <g mask="url(#110-large-b)">
+        <use fill="#FFF" xlink:href="#110-large-c"/>
+        <circle cx="10" cy="10" r="3.75" stroke="gray" stroke-width=".5"/>
+      </g>
+      <g mask="url(#110-large-b)">
+        <use fill="#79BF73" xlink:href="#110-large-d"/>
+        <circle cx="38" cy="10" r="3.75" stroke="#395936" stroke-width=".5"/>
+      </g>
+      <path fill="#000" fill-opacity=".4" d="M30,12 C28.8954305,12 28,11.1045695 28,10 C28,8.8954305 28.8954305,8 30,8 C31.1045695,8 32,8.8954305 32,10 C32,11.1045695 31.1045695,12 30,12 Z M24,12 C22.8954305,12 22,11.1045695 22,10 C22,8.8954305 22.8954305,8 24,8 C25.1045695,8 26,8.8954305 26,10 C26,11.1045695 25.1045695,12 24,12 Z" mask="url(#110-large-b)"/>
+    </g>
+    <g transform="translate(8 22)">
+      <mask id="110-large-f" fill="#fff">
+        <use xlink:href="#110-large-e"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#110-large-e"/>
+      <rect width="47" height="19" x=".5" y=".5" stroke="#737680" rx="8"/>
+      <g mask="url(#110-large-f)">
+        <use fill="#FFF" xlink:href="#110-large-g"/>
+        <circle cx="10" cy="10" r="3.75" stroke="gray" stroke-width=".5"/>
+      </g>
+      <g mask="url(#110-large-f)">
+        <use fill="#79BF73" xlink:href="#110-large-h"/>
+        <circle cx="38" cy="10" r="3.75" stroke="#395936" stroke-width=".5"/>
+      </g>
+      <path fill="#000" fill-opacity=".4" d="M30,12 C28.8954305,12 28,11.1045695 28,10 C28,8.8954305 28.8954305,8 30,8 C31.1045695,8 32,8.8954305 32,10 C32,11.1045695 31.1045695,12 30,12 Z M24,12 C22.8954305,12 22,11.1045695 22,10 C22,8.8954305 22.8954305,8 24,8 C25.1045695,8 26,8.8954305 26,10 C26,11.1045695 25.1045695,12 24,12 Z" mask="url(#110-large-f)"/>
+    </g>
+    <g transform="translate(8)">
+      <mask id="110-large-j" fill="#fff">
+        <use xlink:href="#110-large-i"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#110-large-i"/>
+      <rect width="47" height="19" x=".5" y=".5" stroke="#737680" rx="8"/>
+      <g mask="url(#110-large-j)">
+        <use fill="#FFF" xlink:href="#110-large-k"/>
+        <circle cx="10" cy="10" r="3.75" stroke="gray" stroke-width=".5"/>
+      </g>
+      <g mask="url(#110-large-j)">
+        <use fill="#79BF73" xlink:href="#110-large-l"/>
+        <circle cx="38" cy="10" r="3.75" stroke="#395936" stroke-width=".5"/>
+      </g>
+      <path fill="#000" fill-opacity=".4" d="M30,12 C28.8954305,12 28,11.1045695 28,10 C28,8.8954305 28.8954305,8 30,8 C31.1045695,8 32,8.8954305 32,10 C32,11.1045695 31.1045695,12 30,12 Z M24,12 C22.8954305,12 22,11.1045695 22,10 C22,8.8954305 22.8954305,8 24,8 C25.1045695,8 26,8.8954305 26,10 C26,11.1045695 25.1045695,12 24,12 Z" mask="url(#110-large-j)"/>
+    </g>
+    <use fill="#79BF73" xlink:href="#110-large-m"/>
+    <rect width="35" height="3" x="14.5" y="19.5" stroke="#398033"/>
+    <g>
+      <use fill="#79BF73" xlink:href="#110-large-n"/>
+      <rect width="35" height="3" x="14.5" y="41.5" stroke="#398033"/>
+    </g>
+  </g>
+</svg>

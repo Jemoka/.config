@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <polygon id="watchtower-mono-black-a" points="11 0 7 0 7 3 5 3 5 0 2 0 2 7 4 9 4 18 14 18 14 9 16 7 16 0 13 0 13 3 11 3"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" fill-opacity=".2" xlink:href="#watchtower-mono-black-a"/>
+    <path stroke="#000" d="M10.5,0.5 L7.5,0.5 L7.5,3.5 L4.5,3.5 L4.5,0.5 L2.5,0.5 L2.5,6.79289322 L4.5,8.79289322 L4.5,17.5 L13.5,17.5 L13.5,8.79289322 L15.5,6.79289322 L15.5,0.5 L13.5,0.5 L13.5,3.5 L10.5,3.5 L10.5,0.5 Z"/>
+    <path fill="#000" d="M10,12.8292943 L10,18 L8,18 L8,12.8292943 C6.83480763,12.4174579 6,11.3062188 6,10 C6,8.34314575 7.34314575,7 9,7 C10.6568542,7 12,8.34314575 12,10 C12,11.3062188 11.1651924,12.4174579 10,12.8292943 Z"/>
+  </g>
+</svg>

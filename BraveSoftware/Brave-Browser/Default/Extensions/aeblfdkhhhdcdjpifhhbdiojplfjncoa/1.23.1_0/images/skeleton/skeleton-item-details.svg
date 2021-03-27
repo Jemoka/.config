@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="304" viewBox="0 0 350 304">
+    <g fill="none" fill-rule="evenodd">
+        <g fill="#000" fill-rule="nonzero" opacity=".4">
+            <path fill-opacity=".07" d="M39.5 227h215a6.5 6.5 0 1 1 0 13h-215a6.5 6.5 0 1 1 0-13z"/>
+            <path fill-opacity=".15" d="M38.5 211h107a5.5 5.5 0 0 1 0 11h-107a5.5 5.5 0 0 1 0-11z"/>
+        </g>
+        <g fill-rule="nonzero" transform="translate(20 95)">
+            <rect width="310" height="96" fill="#FFF" rx="8"/>
+            <g fill="#000" transform="translate(13 57)">
+                <rect width="188" height="13" y="16" fill-opacity=".07" rx="6.5"/>
+                <rect width="58" height="11" fill-opacity=".15" rx="5.5"/>
+            </g>
+            <g fill="#000" transform="translate(13 9)">
+                <rect width="138" height="13" y="16" fill-opacity=".07" rx="6.5"/>
+                <rect width="68" height="11" fill-opacity=".15" rx="5.5"/>
+            </g>
+        </g>
+        <rect width="68" height="10" x="118" y="59" fill="#000" fill-opacity=".07" fill-rule="nonzero" rx="5"/>
+        <rect width="16" height="16" x="96" y="56" fill="#000" fill-opacity=".15" rx="8"/>
+        <rect width="138" height="14" x="96" y="28" fill="#000" fill-opacity=".07" fill-rule="nonzero" rx="7"/>
+        <rect width="60" height="60" x="20" y="20" fill="#000" fill-opacity=".15" rx="8"/>
+    </g>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <rect id="107-large-a" width="64" height="48" rx="8"/>
+    <rect id="107-large-c" width="20" height="16" rx="4"/>
+    <rect id="107-large-e" width="20" height="4" y="6"/>
+    <circle id="107-large-f" cx="10" cy="8" r="4"/>
+    <polygon id="107-large-g" points="0 28 36 0 56 0 0 44"/>
+    <path id="107-large-i" d="M24,12.6862915 L24,19.3137085 L24,19.3137085 L19.3137085,24 L12.6862915,24 L12.6862915,24 L8,19.3137085 L8,12.6862915 L12.6862915,8 L19.3137085,8 L24,12.6862915 L24,12.6862915 Z M26.9383632,11.4691816 L32,14 L32,18 L26.9383632,20.5308184 L28.7279221,25.8994949 L25.8994949,28.7279221 L20.5308184,26.9383632 L20.5308184,26.9383632 L18,32 L14,32 L11.4691816,26.9383632 L6.10050506,28.7279221 L3.27207794,25.8994949 L5.06163679,20.5308184 L0,18 L2.22044605e-16,14 L5.06163679,11.4691816 L3.27207794,6.10050506 L6.10050506,3.27207794 L11.4691816,5.06163679 L14,0 L18,0 L20.5308184,5.06163679 L25.8994949,3.27207794 L28.7279221,6.10050506 L26.9383632,11.4691816 L26.9383632,11.4691816 Z"/>
+    <filter id="107-large-h" width="103.1%" height="106.2%" x="-1.6%" y="-1.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+    </filter>
+    <path id="107-large-k" d="M24.4167943,12.5136496 L29.1498356,15.7139508 L28.6277308,19.6797302 L23.2276652,21.5459825 L23.2276652,21.5459825 L22.8226437,27.2450671 L19.1271256,28.7758008 L14.8108708,25.0323329 L14.8108708,25.0323329 L9.6728081,27.5311163 L6.49939474,25.0960706 L7.58320566,19.4863504 L2.85016442,16.2860492 L3.37226919,12.3202698 L8.77233485,10.4540175 L9.17735631,4.75493294 L12.8728744,3.22419921 L17.1891292,6.9676671 L22.3271919,4.46888372 L25.5006053,6.90392943 L24.4167943,12.5136496 L24.4167943,12.5136496 Z M21.334021,13.7905762 L20.5804276,19.5146857 L15.2464067,21.7241096 L10.665979,18.2094238 L11.4195724,12.4853143 L16.7535933,10.2758904 L21.334021,13.7905762 L21.334021,13.7905762 Z"/>
+    <filter id="107-large-j" width="112%" height="116.3%" x="-6%" y="-6.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+    </filter>
+    <path id="107-large-m" d="M20.6666667,11.3333333 L18,6 L14,6 L11.3333333,11.3333333 L6,14 L6,18 L11.3333333,20.6666667 L14,26 L18,26 L20.6666667,20.6666667 L26,18 L26,14 L20.6666667,11.3333333 L20.6666667,11.3333333 Z M18,14 L14,14 L14,18 L18,18 L18,14 L18,14 Z"/>
+    <filter id="107-large-l" width="110%" height="115%" x="-5%" y="-5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+    </filter>
+    <rect id="107-large-o" width="10" height="10" x="11" y="11" rx="4"/>
+    <filter id="107-large-n" width="130%" height="140%" x="-15%" y="-15%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 8)">
+    <mask id="107-large-b" fill="#fff">
+      <use xlink:href="#107-large-a"/>
+    </mask>
+    <use fill="#EDEFF2" xlink:href="#107-large-a"/>
+    <g mask="url(#107-large-b)">
+      <g transform="translate(36 24)">
+        <mask id="107-large-d" fill="#fff">
+          <use xlink:href="#107-large-c"/>
+        </mask>
+        <use fill="#F2C585" xlink:href="#107-large-c"/>
+        <g mask="url(#107-large-d)">
+          <use fill="#F2C585" xlink:href="#107-large-e"/>
+          <rect width="20.5" height="4.5" x="-.25" y="5.75" stroke="#8C674D" stroke-width=".5"/>
+        </g>
+        <g mask="url(#107-large-d)">
+          <use fill="#F2C585" xlink:href="#107-large-f"/>
+          <circle cx="10" cy="8" r="3.75" stroke="#8C674D" stroke-width=".5"/>
+        </g>
+        <rect width="19.5" height="15.5" x=".25" y=".25" stroke="#8C674D" stroke-width=".5" mask="url(#107-large-d)" rx="4"/>
+      </g>
+    </g>
+    <g mask="url(#107-large-b)">
+      <use fill="#FA937F" xlink:href="#107-large-g"/>
+      <path stroke="#99594D" stroke-width=".5" d="M0.25,28.122271 L0.25,43.485634 L55.2771706,0.25 L36.0857769,0.25 L0.25,28.122271 Z"/>
+    </g>
+    <g mask="url(#107-large-b)">
+      <g transform="translate(4 4)">
+        <use fill="#000" filter="url(#107-large-h)" xlink:href="#107-large-i"/>
+        <use fill="#C76" xlink:href="#107-large-i"/>
+        <path stroke="#804A40" stroke-width=".5" d="M24.25,12.6862915 L24.25,19.3137085 L24.1767767,19.4904852 L19.4904852,24.1767767 L19.3137085,24.25 L12.6862915,24.25 L12.5095148,24.1767767 L7.8232233,19.4904852 L7.75,19.3137085 L7.75,12.6862915 L7.8232233,12.5095148 L12.5095148,7.8232233 L12.6862915,7.75 L19.3137085,7.75 L19.4904852,7.8232233 L24.1767767,12.5095148 L24.25,12.6862915 Z M28.4418914,6.16802775 L25.8319722,3.55810864 L20.4041782,5.36737333 L17.8454915,0.25 L14.1545085,0.25 L11.5958218,5.36737333 L6.16802775,3.55810864 L3.55810864,6.16802775 L5.36737333,11.5958218 L0.25,14.1545085 L0.25,17.8454915 L5.36737333,20.4041782 L3.55810864,25.8319722 L6.16802775,28.4418914 L11.5958218,26.6326267 L14.1545085,31.75 L17.8454915,31.75 L20.4041782,26.6326267 L25.8319722,28.4418914 L28.4418914,25.8319722 L26.6326267,20.4041782 L31.75,17.8454915 L31.75,14.1545085 L26.6326267,11.5958218 L28.4418914,6.16802775 Z"/>
+        <use fill="#000" filter="url(#107-large-j)" xlink:href="#107-large-k"/>
+        <use fill="#FF9580" xlink:href="#107-large-k"/>
+        <path stroke="#99594D" d="M24.9703392,12.2843639 L29.6858928,15.4728406 L29.0831184,20.0513666 L23.7030049,21.9107235 L23.2994799,27.5887511 L19.0329728,29.3559962 L14.7326657,25.6263597 L9.61358705,28.1159106 L5.94985436,25.3046296 L7.02966083,19.7156361 L2.31410718,16.5271594 L2.91688157,11.9486334 L8.29699512,10.0892765 L8.70052012,4.41124886 L12.9670272,2.64400376 L17.2673343,6.37364033 L22.3864129,3.88408942 L26.0501456,6.69537039 L24.9703392,12.2843639 Z M20.8006189,14.0115186 L16.678234,10.8483014 L11.8776151,12.8367828 L11.1993811,17.9884814 L15.321766,21.1516986 L20.1223849,19.1632172 L20.8006189,14.0115186 Z"/>
+        <g>
+          <use fill="#000" filter="url(#107-large-l)" xlink:href="#107-large-m"/>
+          <use fill="#FFBFB3" xlink:href="#107-large-m"/>
+          <path stroke="#99594D" stroke-width=".5" d="M20.8530057,11.1469943 L26.25,13.8454915 L26.25,18.1545085 L20.8530057,20.8530057 L18.1545085,26.25 L13.8454915,26.25 L11.1469943,20.8530057 L5.75,18.1545085 L5.75,13.8454915 L11.1469943,11.1469943 L13.8454915,5.75 L18.1545085,5.75 L20.8530057,11.1469943 Z M17.75,14.25 L14.25,14.25 L14.25,17.75 L17.75,17.75 L17.75,14.25 Z"/>
+        </g>
+        <g>
+          <use fill="#000" filter="url(#107-large-n)" xlink:href="#107-large-o"/>
+          <use fill="#FFBFB3" xlink:href="#107-large-o"/>
+          <rect width="11" height="11" x="10.5" y="10.5" stroke="#99594D" rx="4"/>
+        </g>
+      </g>
+    </g>
+    <rect width="63" height="47" x=".5" y=".5" stroke="#000" stroke-opacity=".4" mask="url(#107-large-b)" rx="8"/>
+  </g>
+</svg>

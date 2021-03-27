@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <rect id="002-medium-a" width="32" height="24" y="4" rx="4"/>
+    <rect id="002-medium-b" width="10" height="8" rx="2"/>
+    <rect id="002-medium-d" width="10" height="2" y="3"/>
+    <circle id="002-medium-e" cx="5" cy="4" r="2"/>
+    <path id="002-medium-f" d="M4,23 C4,22.4477153 4.4556644,22 4.99539757,22 L13.0046024,22 C13.5543453,22 14,22.4438648 14,23 C14,23.5522847 13.5443356,24 13.0046024,24 L4.99539757,24 C4.44565467,24 4,23.5561352 4,23 Z M4,20 C4,19.4477153 4.45097518,19 4.99077797,19 L9.00922203,19 C9.55641359,19 10,19.4438648 10,20 C10,20.5522847 9.54902482,21 9.00922203,21 L4.99077797,21 C4.44358641,21 4,20.5561352 4,20 Z"/>
+    <rect id="002-medium-g" width="30" height="6" x="1" y="8"/>
+    <filter id="002-medium-h" width="101.7%" height="108.3%" x="-.8%" y="-4.2%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"/>
+      <feOffset dy="-.5" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#EDEFF2" xlink:href="#002-medium-a"/>
+    <rect width="31" height="23" x=".5" y="4.5" stroke="#000" stroke-opacity=".4" rx="4"/>
+    <g transform="translate(18 16)">
+      <mask id="002-medium-c" fill="#fff">
+        <use xlink:href="#002-medium-b"/>
+      </mask>
+      <use fill="#F2C585" xlink:href="#002-medium-b"/>
+      <g mask="url(#002-medium-c)">
+        <use fill="#F2C585" xlink:href="#002-medium-d"/>
+        <rect width="10.5" height="2.5" x="-.25" y="2.75" stroke="#8C674D" stroke-width=".5"/>
+      </g>
+      <g mask="url(#002-medium-c)">
+        <use fill="#F2C585" xlink:href="#002-medium-e"/>
+        <circle cx="5" cy="4" r="1.75" stroke="#8C674D" stroke-width=".5"/>
+      </g>
+      <rect width="9.5" height="7.5" x=".25" y=".25" stroke="#8C674D" stroke-width=".5" mask="url(#002-medium-c)" rx="2"/>
+    </g>
+    <use fill="#B8BDCC" xlink:href="#002-medium-f"/>
+    <path stroke="#5C5E66" stroke-width=".5" d="M4.25,23 C4.25,23.4168432 4.58250786,23.75 4.99539757,23.75 L13.0046024,23.75 C13.4098506,23.75 13.75,23.4106351 13.75,23 C13.75,22.5831568 13.4174921,22.25 13.0046024,22.25 L4.99539757,22.25 C4.59014945,22.25 4.25,22.5893649 4.25,23 Z M4.25,20 C4.25,20.4171023 4.58070731,20.75 4.99077797,20.75 L9.00922203,20.75 C9.41327403,20.75 9.75,20.4118816 9.75,20 C9.75,19.5828977 9.41929269,19.25 9.00922203,19.25 L4.99077797,19.25 C4.58672597,19.25 4.25,19.5881184 4.25,20 Z"/>
+    <g>
+      <use fill="#000" fill-opacity=".4" xlink:href="#002-medium-g"/>
+      <use fill="#000" filter="url(#002-medium-h)" xlink:href="#002-medium-g"/>
+    </g>
+  </g>
+</svg>

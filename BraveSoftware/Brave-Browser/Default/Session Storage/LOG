@@ -1,0 +1,15 @@
+2021/03/27-13:13:38.680 5 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/03/27-13:13:38.681 5 Recovering log #90
+2021/03/27-13:13:38.682 5 Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000090.log 
+2021/03/27-13:40:17.069 c Level-0 table #94: started
+2021/03/27-13:40:17.075 c Level-0 table #94: 21160 bytes OK
+2021/03/27-13:40:17.079 c Delete type=0 #90
+2021/03/27-13:40:17.080 c Compacting 4@0 + 1@1 files
+2021/03/27-13:40:17.090 c Generated table #95@0: 4398 keys, 90549 bytes
+2021/03/27-13:40:17.090 c Compacted 4@0 + 1@1 files => 90549 bytes
+2021/03/27-13:40:17.094 c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/27-13:40:17.095 c Delete type=2 #88
+2021/03/27-13:40:17.095 c Delete type=2 #82
+2021/03/27-13:40:17.095 c Delete type=2 #91
+2021/03/27-13:40:17.095 c Delete type=2 #85
+2021/03/27-13:40:17.095 c Delete type=2 #94

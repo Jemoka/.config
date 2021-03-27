@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <path id="102-mini-a" d="M2,0 L10,0 C11.1045695,-2.02906125e-16 12,0.8954305 12,2 L12,3.75 L10.5,5 L1.5012207,5 L0,3.75 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z"/>
+    <path id="102-mini-c" d="M2,0 L10,0 C11.1045695,-2.02906125e-16 12,0.8954305 12,2 L12,3.75 L10.5,5 L1.5012207,5 L0,3.75 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z"/>
+    <path id="102-mini-e" d="M2,0 L10,0 C11.1045695,-2.02906125e-16 12,0.8954305 12,2 L12,3.75 L10.5,5 L1.5012207,5 L0,3.75 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2 10)">
+      <mask id="102-mini-b" fill="#fff">
+        <use xlink:href="#102-mini-a"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#102-mini-a"/>
+      <path stroke="#000" stroke-opacity=".4" d="M0.5,3.51569057 L1.68213256,4.5 L10.318975,4.5 L11.5,3.51581253 L11.5,2 C11.5,1.17157288 10.8284271,0.5 10,0.5 L2,0.5 C1.17157288,0.5 0.5,1.17157288 0.5,2 L0.5,3.51569057 Z"/>
+      <rect width="12" height="2" y="3" fill="#000" fill-opacity=".15" mask="url(#102-mini-b)"/>
+    </g>
+    <rect width="9" height="2" x="3.5" y="14" fill="#3A6691"/>
+    <g transform="translate(2 5)">
+      <mask id="102-mini-d" fill="#fff">
+        <use xlink:href="#102-mini-c"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#102-mini-c"/>
+      <path stroke="#000" stroke-opacity=".4" d="M0.5,3.51569057 L1.68213256,4.5 L10.318975,4.5 L11.5,3.51581253 L11.5,2 C11.5,1.17157288 10.8284271,0.5 10,0.5 L2,0.5 C1.17157288,0.5 0.5,1.17157288 0.5,2 L0.5,3.51569057 Z"/>
+      <rect width="12" height="2" y="3" fill="#000" fill-opacity=".15" mask="url(#102-mini-d)"/>
+    </g>
+    <g transform="translate(2)">
+      <mask id="102-mini-f" fill="#fff">
+        <use xlink:href="#102-mini-e"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#102-mini-e"/>
+      <path stroke="#000" stroke-opacity=".4" d="M0.5,3.51569057 L1.68213256,4.5 L10.318975,4.5 L11.5,3.51581253 L11.5,2 C11.5,1.17157288 10.8284271,0.5 10,0.5 L2,0.5 C1.17157288,0.5 0.5,1.17157288 0.5,2 L0.5,3.51569057 Z"/>
+      <rect width="12" height="2" y="3" fill="#000" fill-opacity=".15" mask="url(#102-mini-f)"/>
+    </g>
+    <rect width="8" height="2" x="4" y="4" fill="#3A6691"/>
+    <rect width="8" height="2" x="4" y="9" fill="#3A6691"/>
+  </g>
+</svg>

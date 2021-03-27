@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <path id="003-large-a" d="M16,0 L48,0 L48,0 C52.418278,-8.11624501e-16 56,3.581722 56,8 L56,16 L8,16 L8,8 L8,8 C8,3.581722 11.581722,8.11624501e-16 16,0 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="48" height="64" x="8" fill="#FE9" rx="8"/>
+    <path fill="#FA937F" d="M16,12 L17,12 L17,64 L16,64 L16,12 Z M19,12 L20,12 L20,64 L19,64 L19,12 Z"/>
+    <path fill="#80AAFF" d="M8,23 L56,23 L56,23.5 L8,23.5 L8,23 Z M8,31 L56,31 L56,31.5 L8,31.5 L8,31 Z M8,39 L56,39 L56,39.5 L8,39.5 L8,39 Z M8,47 L56,47 L56,47.5 L8,47.5 L8,47 Z M8,55 L56,55 L56,55.5 L8,55.5 L8,55 Z" style="mix-blend-mode:multiply"/>
+    <rect width="47" height="63" x="8.5" y=".5" stroke="#A67553" rx="8"/>
+    <use fill="#A67553" xlink:href="#003-large-a"/>
+    <path stroke="#402D20" d="M8.5,15.5 L55.5,15.5 L55.5,8 C55.5,3.85786438 52.1421356,0.5 48,0.5 L16,0.5 C11.8578644,0.5 8.5,3.85786438 8.5,8 L8.5,15.5 Z"/>
+  </g>
+</svg>

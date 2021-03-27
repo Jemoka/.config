@@ -1,0 +1,11 @@
+{
+   "extBetaName": {
+      "message": "1Password Beta - 密碼管理器"
+   },
+   "extDescription": {
+      "message": "在瀏覽器中體驗 1Password 的最佳方式。輕鬆登入網站、產生密碼和儲存安全資訊。"
+   },
+   "extName": {
+      "message": "1Password - 密碼管理器"
+   }
+}

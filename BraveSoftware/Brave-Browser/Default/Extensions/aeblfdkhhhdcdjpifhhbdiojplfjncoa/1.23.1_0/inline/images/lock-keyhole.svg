@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 70 70">
+  <defs>
+    <path id="lock-keyhole-b" d="M27,24.2967662 L27,11.9999999 C27,10.3431457 28.3431458,8.99999992 30,8.99999992 L40,8.99999992 C41.6568542,8.99999992 43,10.3431457 43,11.9999999 L43,36.9756911 C43,37.3659008 42.8479411,37.7407521 42.5760959,38.0206875 L40.3680398,40.2944564 C39.8028344,40.8764825 39.8028344,41.802423 40.3680398,42.3844492 L42.5760959,44.6582181 C42.8479411,44.9381535 43,45.3130048 43,45.7032145 L43,57.9999999 C43,59.6568542 41.6568542,60.9999999 40,60.9999999 L30,60.9999999 C28.3431458,60.9999999 27,59.6568542 27,57.9999999 L27,33.0242888 C27,32.6340793 27.1520587,32.2592282 27.4239036,31.9792929 L29.6319582,29.7055234 C30.197163,29.1234974 30.197163,28.1975576 29.6319582,27.6155316 L27.4239036,25.3417621 C27.1520587,25.0618268 27,24.6869757 27,24.2967662 Z"/>
+    <filter id="lock-keyhole-a" width="106.2%" height="103.8%" x="-3.1%" y="-1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0"/>
+    </filter>
+    <filter id="lock-keyhole-c" width="212.5%" height="136.5%" x="-56.2%" y="-17.3%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner1"/>
+      <feGaussianBlur in="shadowSpreadInner1" result="shadowBlurInner1" stdDeviation="6"/>
+      <feOffset dy="5" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.6 0"/>
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner2"/>
+      <feOffset in="shadowSpreadInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.6 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#lock-keyhole-a)" xlink:href="#lock-keyhole-b"/>
+    <use fill="#606B73" xlink:href="#lock-keyhole-b"/>
+    <use fill="#000" filter="url(#lock-keyhole-c)" xlink:href="#lock-keyhole-b"/>
+  </g>
+</svg>

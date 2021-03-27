@@ -1,0 +1,196 @@
+{
+   "Blank threshold" : 0.005,
+   "Dark threshold" : 0.12,
+   "OCR on scan" : 1,
+   "OCR output" : "replace",
+   "Page range" : "all",
+   "Paper" : {
+      "A3" : {
+         "l" : 0,
+         "t" : 0,
+         "x" : 297,
+         "y" : 420
+      },
+      "A4" : {
+         "l" : 0,
+         "t" : 0,
+         "x" : 210,
+         "y" : 297
+      },
+      "US Legal" : {
+         "l" : 0,
+         "t" : 0,
+         "x" : 216,
+         "y" : 356
+      },
+      "US Letter" : {
+         "l" : 0,
+         "t" : 0,
+         "x" : 216,
+         "y" : 279
+      }
+   },
+   "SANE version" : "1.0.32",
+   "TMPDIR" : null,
+   "adf-defaults-scan-all-pages" : 1,
+   "allow-batch-flatbed" : "",
+   "author" : "",
+   "author-suggestions" : [],
+   "auto-open-scan-dialog" : 1,
+   "available-tmp-warning" : 10,
+   "brightness tool" : 65,
+   "cache" : null,
+   "cache options" : 1,
+   "cache-device-list" : 1,
+   "cancel-between-pages" : "",
+   "close_dialog_on_save" : 1,
+   "contrast tool" : 65,
+   "convert whitespace to underscores" : "",
+   "current_psh" : null,
+   "current_udt" : "gimp %i",
+   "cwd" : "/home/hliu/Desktop",
+   "cycle sane handle" : "",
+   "datetime offset" : [
+      0,
+      0,
+      0,
+      0
+   ],
+   "default filename" : "%Da %DY-%Dm-%Dd.%De",
+   "default profile" : null,
+   "default-scan-options" : {
+      "backend" : [
+         {
+            "resolution" : "300"
+         },
+         {
+            "br-x" : 216
+         },
+         {
+            "br-y" : 279
+         }
+      ],
+      "frontend" : {
+         "paper" : "US Letter"
+      }
+   },
+   "device" : "pixma:MF4800_192.168.86.59",
+   "device blacklist" : null,
+   "device list" : [
+      {
+         "label" : "Noname Apple Facetime HD",
+         "model" : "Apple Facetime HD",
+         "name" : "v4l:/dev/video0",
+         "type" : "virtual device",
+         "vendor" : "Noname"
+      },
+      {
+         "label" : "CANON Canon i-SENSYS MF4800 Series",
+         "model" : "Canon i-SENSYS MF4800 Series",
+         "name" : "pixma:MF4800_192.168.86.59",
+         "type" : "multi-function peripheral",
+         "vendor" : "CANON"
+      },
+      {
+         "label" : "WSD Canon MF4800 Series",
+         "model" : "Canon MF4800 Series",
+         "name" : "airscan:w0:Canon MF4800 Series",
+         "type" : "ip=192.168.86.59",
+         "vendor" : "WSD"
+      }
+   ],
+   "downsample" : 0,
+   "downsample dpi" : 150,
+   "frontend" : "libimage-sane-perl",
+   "ignore-duplex-capabilities" : "",
+   "image type" : "pdf",
+   "keywords" : "",
+   "keywords-suggestions" : [],
+   "libimage-sane-perl version" : "5",
+   "message" : {},
+   "message_window_height" : 200,
+   "message_window_width" : 600,
+   "ocr engine" : "gocr",
+   "ocr language" : null,
+   "pdf compression" : "auto",
+   "pdf font" : "/usr/share/fonts/noto/NotoSansMyanmar-Bold.ttf",
+   "post_save_hook" : "",
+   "profile" : {},
+   "ps_backend" : "pdftops",
+   "quality" : 75,
+   "restore window" : 1,
+   "rotate facing" : 0,
+   "rotate reverse" : 0,
+   "scan prefix" : "",
+   "scan-reload-triggers" : "mode",
+   "scan_window_height" : 59,
+   "scan_window_width" : 178,
+   "selection" : null,
+   "set_timestamp" : 1,
+   "subject" : "",
+   "subject-suggestions" : [],
+   "threshold tool" : 80,
+   "threshold-before-ocr" : "",
+   "thumb panel" : 100,
+   "tiff compression" : null,
+   "timezone offset" : [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+   ],
+   "title" : "",
+   "title-suggestions" : [],
+   "to_png" : 1,
+   "udt_on_scan" : "",
+   "unpaper on scan" : "",
+   "unpaper options" : null,
+   "unsharp amount" : 1,
+   "unsharp radius" : 0,
+   "unsharp sigma" : 1,
+   "unsharp threshold" : 0.05,
+   "use_time" : "",
+   "use_timezone" : 1,
+   "user_defined_tools" : [
+      "gimp %i"
+   ],
+   "version" : "2.10.2",
+   "view files toggle" : 1,
+   "viewer_tools" : 100,
+   "visible-scan-options" : {
+      "Paper size" : 1,
+      "adf-mode" : 1,
+      "adf_mode" : 1,
+      "batch-scan" : 1,
+      "brightness" : 1,
+      "button-wait" : 1,
+      "calibration-cache" : 1,
+      "compression" : 1,
+      "contrast" : 1,
+      "gain" : 1,
+      "l" : 1,
+      "mode" : 1,
+      "overscan-bottom" : 1,
+      "overscan-top" : 1,
+      "page-height" : 1,
+      "page-width" : 1,
+      "pageheight" : 1,
+      "pagewidth" : 1,
+      "resolution" : 1,
+      "source" : 1,
+      "speed" : 1,
+      "t" : 1,
+      "threshold" : 1,
+      "wait-for-button" : 1,
+      "x" : 1,
+      "y" : 1
+   },
+   "window_height" : 803,
+   "window_maximize" : 1,
+   "window_width" : 740,
+   "window_x" : 667,
+   "window_y" : 65
+}

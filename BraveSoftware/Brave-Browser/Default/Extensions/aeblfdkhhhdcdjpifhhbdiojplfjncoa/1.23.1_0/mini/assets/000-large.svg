@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <path id="type-unknown-64@1x-a" d="M62.8925781,16.3388672 C63.5041903,17.2562855 63.0952759,18 61.9967014,18 L0,18 L12,0 L52,0 L62.8925781,16.3388672 Z"/>
+    <rect id="type-unknown-64@1x-d" width="46" height="23" x=".994" y=".033" rx="2"/>
+    <filter id="type-unknown-64@1x-c" width="104.3%" height="108.7%" x="-3.3%" y="-6.5%" filterUnits="objectBoundingBox">
+      <feOffset dx="-1" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feComposite in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.6 0"/>
+    </filter>
+    <rect id="type-unknown-64@1x-e" width="18" height="6" x="23" y="11" rx="2"/>
+    <path id="type-unknown-64@1x-f" d="M23,13 C23,11.8954305 23.8926228,11 24.9950893,11 L39.0049107,11 C40.1067681,11 41,11.8877296 41,13 L41,15 L23,15 L23,13 Z"/>
+    <filter id="type-unknown-64@1x-g" width="105.6%" height="125%" x="-2.8%" y="-12.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 -1)">
+    <g transform="translate(0 17)">
+      <mask id="type-unknown-64@1x-b" fill="#fff">
+        <use xlink:href="#type-unknown-64@1x-a"/>
+      </mask>
+      <path stroke="#402D1E" d="M51.7324081,0.5 L12.2675919,0.5 L0.934258546,17.5 L61.9967014,17.5 C62.7002585,17.5 62.8642459,17.1977566 62.476553,16.6162173 L51.7324081,0.5 Z"/>
+      <polygon fill="#332114" fill-opacity=".5" points="4.267 2 14 2 14 20 4.267 20" mask="url(#type-unknown-64@1x-b)"/>
+      <rect width="9.733" height="18" x="50" y="2" fill="#332114" fill-opacity=".5" mask="url(#type-unknown-64@1x-b)"/>
+    </g>
+    <g transform="rotate(10 -17.72 75.15)">
+      <path fill="#D9C398" stroke="#807357" d="M30.5,2.5 L30.5,2.00104344 C30.5,0.620760647 31.6162498,-0.5 32.9918842,-0.5 L44.0081158,-0.5 C45.3817459,-0.5 46.5,0.621147279 46.5,1.99124431 L46.5,26.0087557 C46.5,27.3854508 45.3770888,28.5 43.9938589,28.5 L2.0061411,28.5 C0.619937298,28.5 -0.5,27.3842901 -0.5,25.9964051 L-0.5,5.00359486 C-0.5,3.62110794 0.617983691,2.5 1.99821383,2.5 L30.5,2.5 Z"/>
+      <path fill="#E6CFA1" stroke="#807355" d="M0.5,7.00086422 L0.5,25.9991358 C0.5,26.8241664 1.17625965,27.5 2.0061411,27.5 L43.9938589,27.5 C44.825934,27.5 45.5,26.8277213 45.5,25.9991358 L45.5,7.00086422 C45.5,6.17583364 44.8237404,5.5 43.9938589,5.5 L2.0061411,5.5 C1.17406602,5.5 0.5,6.17227869 0.5,7.00086422 Z"/>
+    </g>
+    <g transform="rotate(-5 268.99 -103.47)">
+      <use fill="#000" filter="url(#type-unknown-64@1x-c)" xlink:href="#type-unknown-64@1x-d"/>
+      <rect width="45" height="22" x="1.494" y=".533" fill="#EDEFF2" stroke="#737680" stroke-linejoin="square" rx="2"/>
+      <path stroke="#737680" stroke-linecap="round" stroke-opacity=".69" stroke-width="1.02" d="M39.51 4L39.51 20M35.51 4L35.51 20M37.51 4L37.51 20M31.51 4L31.51 20M33.51 4L33.51 20M27.51 4L27.51 20M29.51 4L29.51 20M23.51 4L23.51 20M25.51 4L25.51 20M15.51 4L15.51 20M13.51 4L13.51 20M11.51 4L11.51 20M9.51 4L9.51 20"/>
+    </g>
+    <g transform="translate(0 29)">
+      <path fill="#805332" stroke="#402D1F" d="M0.5,6.00670248 L0.5,21.9932975 C0.5,25.0377457 2.95759114,27.5 5.99220045,27.5 L58.0077996,27.5 C61.0369457,27.5 63.5,25.0326874 63.5,21.9932975 L63.5,6.00670248 C63.5,2.96225425 61.0424089,0.5 58.0077996,0.5 L5.99220045,0.5 C2.96305431,0.5 0.5,2.96731264 0.5,6.00670248 Z"/>
+      <rect width="57" height="21" x="3.5" y="3.5" fill="#A67553" stroke="#BF9373" rx="3"/>
+      <use fill="#B39B6B" xlink:href="#type-unknown-64@1x-e"/>
+      <rect width="19" height="7" x="22.5" y="10.5" stroke="#402D1E" stroke-opacity=".5" rx="2"/>
+      <rect width="17" height="5" x="23.5" y="11.5" stroke="#FFE6B3" stroke-linejoin="square" rx="2"/>
+      <use fill="#FFE6B3" xlink:href="#type-unknown-64@1x-f"/>
+      <use fill="#000" filter="url(#type-unknown-64@1x-g)" xlink:href="#type-unknown-64@1x-f"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "coc-snippets": ">=2.1.28",
+    "coc-vimtex": ">=1.0.4"
+  }
+}

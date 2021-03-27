@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <rect id="002-mini-a" width="16" height="12" y="2" rx="2"/>
+    <rect id="002-mini-b" width="5" height="3" rx="1"/>
+    <rect id="002-mini-d" width="14" height="3" x="1" y="5"/>
+    <filter id="002-mini-e" width="103.6%" height="116.7%" x="-1.8%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"/>
+      <feOffset dy="-.5" in="SourceAlpha" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#EDEFF2" xlink:href="#002-mini-a"/>
+    <rect width="15" height="11" x=".5" y="2.5" stroke="#000" stroke-opacity=".4" rx="2"/>
+    <g transform="translate(9 9)">
+      <mask id="002-mini-c" fill="#fff">
+        <use xlink:href="#002-mini-b"/>
+      </mask>
+      <use fill="#F2C585" xlink:href="#002-mini-b"/>
+      <rect width="4.5" height="2.5" x=".25" y=".25" stroke="#8C674D" stroke-width=".5" mask="url(#002-mini-c)" rx="1"/>
+    </g>
+    <g>
+      <use fill="#000" fill-opacity=".4" xlink:href="#002-mini-d"/>
+      <use fill="#000" filter="url(#002-mini-e)" xlink:href="#002-mini-d"/>
+    </g>
+  </g>
+</svg>

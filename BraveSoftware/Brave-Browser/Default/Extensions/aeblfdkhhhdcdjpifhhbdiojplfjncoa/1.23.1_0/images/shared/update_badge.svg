@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <rect id="update_badge-a" width="16" height="16" rx="8"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#FE9" xlink:href="#update_badge-a"/>
+    <rect width="15" height="15" x=".5" y=".5" stroke="#D9A762" rx="7.5"/>
+    <path fill="#80664D" d="M8,4 L8,5 C6.34314575,5 5,6.34314575 5,8 C5,9.65685425 6.34314575,11 8,11 C9.65685425,11 11,9.65685425 11,8 C11,7.73478217 10.965584,7.47760261 10.9009745,7.2326837 L11.7681045,6.65459702 C11.9182383,7.07504173 12,7.52797263 12,8 C12,10.209139 10.209139,12 8,12 C5.790861,12 4,10.209139 4,8 C4,5.790861 5.790861,4 8,4 Z M8,2.5 L11,4.5 L8,6.5 L8,2.5 Z"/>
+  </g>
+</svg>

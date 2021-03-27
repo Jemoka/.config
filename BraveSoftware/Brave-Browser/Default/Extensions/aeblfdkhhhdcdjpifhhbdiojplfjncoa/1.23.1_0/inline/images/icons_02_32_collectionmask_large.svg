@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="32" viewBox="0 0 14 32">
+  <defs>
+    <path id="icons_02_32_collectionmask_large-a" d="M0.670643826,0.221890265 C8.2359225,1.49307019 14,8.07339888 14,16 C14,23.9266011 8.2359225,30.5069298 0.670643826,31.7781097 C6.231966,28.7151335 10,22.7976025 10,16 C10,9.26212605 6.29789234,3.38892568 0.816826795,0.303548646 Z"/>
+  </defs>
+  <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#icons_02_32_collectionmask_large-a"/>
+</svg>

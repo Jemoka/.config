@@ -1,0 +1,5 @@
+super + shift + 4
+    maim -s | xclip -selection clipboard -t image/png
+super + shift + Return
+    dolphin &
+

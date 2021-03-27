@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <path id="102-medium-a" d="M4,0 L20,0 L20,0 C22.209139,-4.05812251e-16 24,1.790861 24,4 L24,7.5 L21,10 L3.00244141,10 L0,7.5 L0,4 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z"/>
+    <rect id="102-medium-c" width="24" height="3" y="7"/>
+    <filter id="102-medium-d" width="102.1%" height="116.7%" x="-1%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"/>
+    </filter>
+    <path id="102-medium-e" d="M4,0 L20,0 L20,0 C22.209139,-4.05812251e-16 24,1.790861 24,4 L24,7.5 L21,10 L3.00244141,10 L0,7.5 L0,4 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z"/>
+    <rect id="102-medium-g" width="24" height="3" y="7"/>
+    <filter id="102-medium-h" width="102.1%" height="116.7%" x="-1%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"/>
+    </filter>
+    <path id="102-medium-i" d="M4,0 L20,0 L20,0 C22.209139,-4.05812251e-16 24,1.790861 24,4 L24,7.5 L21,10 L3.00244141,10 L0,7.5 L0,4 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z"/>
+    <rect id="102-medium-k" width="24" height="3" y="7"/>
+    <filter id="102-medium-l" width="102.1%" height="116.7%" x="-1%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy=".5" in="SourceAlpha" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0"/>
+    </filter>
+    <rect id="102-medium-m" width="18" height="3" x="7" y="9"/>
+    <rect id="102-medium-n" width="18" height="3" x="7" y="20"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 22)">
+      <mask id="102-medium-b" fill="#fff">
+        <use xlink:href="#102-medium-a"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#102-medium-a"/>
+      <g mask="url(#102-medium-b)">
+        <use fill="#B8BDCC" xlink:href="#102-medium-c"/>
+        <use fill="#000" filter="url(#102-medium-d)" xlink:href="#102-medium-c"/>
+      </g>
+      <path stroke="#000" stroke-opacity=".4" d="M0.5,7.26569057 L3.18335326,9.5 L20.818975,9.5 L23.5,7.26581253 L23.5,4 C23.5,2.06700338 21.9329966,0.5 20,0.5 L4,0.5 C2.06700338,0.5 0.5,2.06700338 0.5,4 L0.5,7.26569057 Z" mask="url(#102-medium-b)"/>
+    </g>
+    <g transform="translate(4 11)">
+      <mask id="102-medium-f" fill="#fff">
+        <use xlink:href="#102-medium-e"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#102-medium-e"/>
+      <g mask="url(#102-medium-f)">
+        <use fill="#B8BDCC" xlink:href="#102-medium-g"/>
+        <use fill="#000" filter="url(#102-medium-h)" xlink:href="#102-medium-g"/>
+      </g>
+      <path stroke="#000" stroke-opacity=".4" d="M0.5,7.26569057 L3.18335326,9.5 L20.818975,9.5 L23.5,7.26581253 L23.5,4 C23.5,2.06700338 21.9329966,0.5 20,0.5 L4,0.5 C2.06700338,0.5 0.5,2.06700338 0.5,4 L0.5,7.26569057 Z" mask="url(#102-medium-f)"/>
+    </g>
+    <g transform="translate(4)">
+      <mask id="102-medium-j" fill="#fff">
+        <use xlink:href="#102-medium-i"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#102-medium-i"/>
+      <g mask="url(#102-medium-j)">
+        <use fill="#B8BDCC" xlink:href="#102-medium-k"/>
+        <use fill="#000" filter="url(#102-medium-l)" xlink:href="#102-medium-k"/>
+      </g>
+      <path stroke="#000" stroke-opacity=".4" d="M0.5,7.26581253 L3.18102497,9.5 L20.818975,9.5 L23.5,7.26581253 L23.5,4 C23.5,2.06700338 21.9329966,0.5 20,0.5 L4,0.5 C2.06700338,0.5 0.5,2.06700338 0.5,4 L0.5,7.26581253 Z" mask="url(#102-medium-j)"/>
+    </g>
+    <use fill="#61AAF2" xlink:href="#102-medium-m"/>
+    <rect width="17" height="2" x="7.5" y="9.5" stroke="#000" stroke-opacity=".4"/>
+    <g>
+      <use fill="#61AAF2" xlink:href="#102-medium-n"/>
+      <rect width="17" height="2" x="7.5" y="20.5" stroke="#000" stroke-opacity=".4"/>
+    </g>
+  </g>
+</svg>

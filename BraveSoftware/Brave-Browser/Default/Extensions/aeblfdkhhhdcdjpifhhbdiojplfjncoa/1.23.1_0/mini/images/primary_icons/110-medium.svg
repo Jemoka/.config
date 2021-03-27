@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <rect id="110-medium-a" width="24" height="10" rx="4"/>
+    <circle id="110-medium-c" cx="5" cy="5" r="2"/>
+    <circle id="110-medium-d" cx="19" cy="5" r="2"/>
+    <rect id="110-medium-e" width="24" height="10" rx="4"/>
+    <circle id="110-medium-g" cx="5" cy="5" r="2"/>
+    <circle id="110-medium-h" cx="19" cy="5" r="2"/>
+    <rect id="110-medium-i" width="24" height="10" rx="4"/>
+    <circle id="110-medium-k" cx="5" cy="5" r="2"/>
+    <circle id="110-medium-l" cx="19" cy="5" r="2"/>
+    <rect id="110-medium-m" width="18" height="3" x="7" y="9"/>
+    <rect id="110-medium-n" width="18" height="3" x="7" y="20"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(4 22)">
+      <mask id="110-medium-b" fill="#fff">
+        <use xlink:href="#110-medium-a"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#110-medium-a"/>
+      <rect width="23" height="9" x=".5" y=".5" stroke="#737680" rx="4"/>
+      <g mask="url(#110-medium-b)">
+        <use fill="#FFF" xlink:href="#110-medium-c"/>
+        <circle cx="5" cy="5" r="1.75" stroke="gray" stroke-width=".5"/>
+      </g>
+      <g mask="url(#110-medium-b)">
+        <use fill="#79BF73" xlink:href="#110-medium-d"/>
+        <circle cx="19" cy="5" r="1.75" stroke="#395936" stroke-width=".5"/>
+      </g>
+      <path fill="#000" fill-opacity=".4" d="M15,6 C14.4477153,6 14,5.55228475 14,5 C14,4.44771525 14.4477153,4 15,4 C15.5522847,4 16,4.44771525 16,5 C16,5.55228475 15.5522847,6 15,6 Z M12,6 C11.4477153,6 11,5.55228475 11,5 C11,4.44771525 11.4477153,4 12,4 C12.5522847,4 13,4.44771525 13,5 C13,5.55228475 12.5522847,6 12,6 Z" mask="url(#110-medium-b)"/>
+    </g>
+    <g transform="translate(4 11)">
+      <mask id="110-medium-f" fill="#fff">
+        <use xlink:href="#110-medium-e"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#110-medium-e"/>
+      <rect width="23" height="9" x=".5" y=".5" stroke="#737680" rx="4"/>
+      <g mask="url(#110-medium-f)">
+        <use fill="#FFF" xlink:href="#110-medium-g"/>
+        <circle cx="5" cy="5" r="1.75" stroke="gray" stroke-width=".5"/>
+      </g>
+      <g mask="url(#110-medium-f)">
+        <use fill="#79BF73" xlink:href="#110-medium-h"/>
+        <circle cx="19" cy="5" r="1.75" stroke="#395936" stroke-width=".5"/>
+      </g>
+      <path fill="#000" fill-opacity=".4" d="M15,6 C14.4477153,6 14,5.55228475 14,5 C14,4.44771525 14.4477153,4 15,4 C15.5522847,4 16,4.44771525 16,5 C16,5.55228475 15.5522847,6 15,6 Z M12,6 C11.4477153,6 11,5.55228475 11,5 C11,4.44771525 11.4477153,4 12,4 C12.5522847,4 13,4.44771525 13,5 C13,5.55228475 12.5522847,6 12,6 Z" mask="url(#110-medium-f)"/>
+    </g>
+    <g transform="translate(4)">
+      <mask id="110-medium-j" fill="#fff">
+        <use xlink:href="#110-medium-i"/>
+      </mask>
+      <use fill="#EDEFF2" xlink:href="#110-medium-i"/>
+      <rect width="23" height="9" x=".5" y=".5" stroke="#737680" rx="4"/>
+      <g mask="url(#110-medium-j)">
+        <use fill="#FFF" xlink:href="#110-medium-k"/>
+        <circle cx="5" cy="5" r="1.75" stroke="gray" stroke-width=".5"/>
+      </g>
+      <g mask="url(#110-medium-j)">
+        <use fill="#79BF73" xlink:href="#110-medium-l"/>
+        <circle cx="19" cy="5" r="1.75" stroke="#395936" stroke-width=".5"/>
+      </g>
+      <path fill="#000" fill-opacity=".4" d="M15,6 C14.4477153,6 14,5.55228475 14,5 C14,4.44771525 14.4477153,4 15,4 C15.5522847,4 16,4.44771525 16,5 C16,5.55228475 15.5522847,6 15,6 Z M12,6 C11.4477153,6 11,5.55228475 11,5 C11,4.44771525 11.4477153,4 12,4 C12.5522847,4 13,4.44771525 13,5 C13,5.55228475 12.5522847,6 12,6 Z" mask="url(#110-medium-j)"/>
+    </g>
+    <use fill="#79BF73" xlink:href="#110-medium-m"/>
+    <rect width="17" height="2" x="7.5" y="9.5" stroke="#398033"/>
+    <g>
+      <use fill="#79BF73" xlink:href="#110-medium-n"/>
+      <rect width="17" height="2" x="7.5" y="20.5" stroke="#398033"/>
+    </g>
+  </g>
+</svg>

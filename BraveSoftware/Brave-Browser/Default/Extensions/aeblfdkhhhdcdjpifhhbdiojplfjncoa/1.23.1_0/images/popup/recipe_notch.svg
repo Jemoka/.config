@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="9" viewBox="0 0 20 9">
+  <defs>
+    <polygon id="recipe_notch-b" points="10 2 19 9 1 9"/>
+    <filter id="recipe_notch-a" width="110%" height="140%" x="-5%" y="-30%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".1" result="shadowSpreadOuter1"/>
+      <feOffset dy="-1.2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#recipe_notch-a)" xlink:href="#recipe_notch-b"/>
+    <use fill="#E5E5E5" xlink:href="#recipe_notch-b"/>
+  </g>
+</svg>

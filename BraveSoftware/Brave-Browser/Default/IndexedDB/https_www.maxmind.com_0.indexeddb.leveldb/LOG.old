@@ -1,0 +1,15 @@
+2020/08/18-21:02:11.220 9888 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.maxmind.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/18-21:02:11.221 9888 Recovering log #4
+2020/08/18-21:02:11.221 9888 Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.maxmind.com_0.indexeddb.leveldb/000004.log 
+2020/08/18-21:05:09.861 993e Level-0 table #8: started
+2020/08/18-21:05:09.872 993e Level-0 table #8: 782 bytes OK
+2020/08/18-21:05:09.884 993e Delete type=0 #4
+2020/08/18-21:05:09.885 993e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/18-21:05:09.885 993e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x00\x00\x00\x00\x00\x00\x00\x00' @ 73 : 1
+2020/08/18-21:05:09.885 993e Compacting 1@1 + 1@2 files
+2020/08/18-21:05:09.893 993e Generated table #9@1: 19 keys, 598 bytes
+2020/08/18-21:05:09.894 993e Compacted 1@1 + 1@2 files => 598 bytes
+2020/08/18-21:05:09.906 993e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/18-21:05:09.906 993e Delete type=2 #5
+2020/08/18-21:05:09.906 993e Delete type=2 #8
+2020/08/18-21:05:09.906 993e Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x00\x00\x00\x00\x00\x00\x00\x00' @ 73 : 1 .. (end); will stop at (end)

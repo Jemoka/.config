@@ -1,0 +1,5 @@
+2020/08/17-22:18:35.079 5055 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.ubuntupit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/17-22:21:23.615 5530 Level-0 table #5: started
+2020/08/17-22:21:24.907 5530 Level-0 table #5: 6330 bytes OK
+2020/08/17-22:21:26.808 5530 Delete type=0 #3
+2020/08/17-22:21:26.809 5530 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

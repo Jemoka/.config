@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="18" viewBox="0 0 50 18">
+  <defs>
+    <path id="button_icon-expand-a" d="M28.4989325,9.03063093 C28.5115215,8.75859018 28.4127427,8.48244477 28.2039409,8.27410969 L23.2131321,3.29445472 C22.8203934,2.90259371 22.185186,2.90183327 21.7938721,3.29227265 C21.39983,3.68543411 21.4035373,4.3167163 21.7960591,4.70836081 L26.0968386,8.99952866 L21.7960591,13.2906965 C21.4033203,13.6825575 21.4025582,14.3163453 21.7938721,14.7067847 C22.1879142,15.0999461 22.8206104,15.0962471 23.2131321,14.7046026 L28.2039409,9.72494763 C28.3966673,9.53265195 28.4950018,9.28209784 28.4989325,9.03063093 L28.4989325,9.03063093 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="button_icon-expand-b" fill="#fff">
+      <use xlink:href="#button_icon-expand-a"/>
+    </mask>
+    <use fill="#333" fill-opacity="0" transform="matrix(0 1 1 0 16 -16)" xlink:href="#button_icon-expand-a"/>
+    <g fill="#000" fill-opacity=".55" mask="url(#button_icon-expand-b)">
+      <rect width="50" height="18"/>
+    </g>
+  </g>
+</svg>

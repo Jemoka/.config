@@ -1,0 +1,5 @@
+2021/03/27-11:13:08.318 23bbd Recovering log #130
+2021/03/27-11:13:08.318 23bbd Level-0 table #132: started
+2021/03/27-11:13:08.327 23bbd Level-0 table #132: 1162 bytes OK
+2021/03/27-11:13:08.355 23bbd Delete type=0 #130
+2021/03/27-11:13:08.355 23bbd Delete type=3 #128
