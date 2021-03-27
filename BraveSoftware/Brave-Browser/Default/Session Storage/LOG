@@ -1,21 +1,12 @@
-2021/03/27-14:42:30.586 3 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2021/03/27-14:42:30.588 3 Recovering log #96
-2021/03/27-14:42:30.589 3 Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000096.log 
-2021/03/27-14:42:31.079 5 Level-0 table #100: started
-2021/03/27-14:42:31.090 5 Level-0 table #100: 23069 bytes OK
-2021/03/27-14:42:31.103 5 Delete type=0 #96
-2021/03/27-15:10:12.538 12 Level-0 table #102: started
-2021/03/27-15:10:12.545 12 Level-0 table #102: 20792 bytes OK
-2021/03/27-15:10:12.554 12 Delete type=0 #99
-2021/03/27-15:32:07.922 21 Level-0 table #104: started
-2021/03/27-15:32:07.933 21 Level-0 table #104: 22581 bytes OK
-2021/03/27-15:32:07.954 21 Delete type=0 #101
-2021/03/27-15:32:07.955 21 Compacting 4@0 + 1@1 files
-2021/03/27-15:32:07.978 21 Generated table #105@0: 4936 keys, 120407 bytes
-2021/03/27-15:32:07.978 21 Compacted 4@0 + 1@1 files => 120407 bytes
-2021/03/27-15:32:07.991 21 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/03/27-15:32:07.994 21 Delete type=2 #100
-2021/03/27-15:32:07.994 21 Delete type=2 #97
-2021/03/27-15:32:07.994 21 Delete type=2 #102
-2021/03/27-15:32:07.994 21 Delete type=2 #104
-2021/03/27-15:32:07.995 21 Delete type=2 #95
+2021/03/27-15:58:20.815 3 Reusing MANIFEST /home/hliu/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/03/27-15:58:20.816 3 Recovering log #103
+2021/03/27-15:58:20.817 3 Reusing old log /home/hliu/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000103.log 
+2021/03/27-16:00:18.471 3 Level-0 table #108: started
+2021/03/27-16:00:18.477 3 Level-0 table #108: 19581 bytes OK
+2021/03/27-16:00:18.485 3 Delete type=0 #103
+2021/03/27-16:18:40.762 e Level-0 table #110: started
+2021/03/27-16:18:40.766 e Level-0 table #110: 23356 bytes OK
+2021/03/27-16:18:40.771 e Delete type=0 #107
+2021/03/27-16:44:45.090 20 Level-0 table #112: started
+2021/03/27-16:44:45.095 20 Level-0 table #112: 23959 bytes OK
+2021/03/27-16:44:45.109 20 Delete type=0 #109
