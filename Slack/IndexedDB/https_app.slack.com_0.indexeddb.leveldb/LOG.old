@@ -1,6 +1,6 @@
-2020/10/19-21:54:36.462 12ea Reusing MANIFEST /home/hliu/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/10/19-21:54:36.462 12ea Recovering log #4
-2020/10/19-21:54:36.472 12ea Reusing old log /home/hliu/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000004.log 
-2020/10/20-00:42:53.010 3db0 Level-0 table #8: started
-2020/10/20-00:42:53.029 3db0 Level-0 table #8: 1552200 bytes OK
-2020/10/20-00:42:53.034 3db0 Delete type=0 #4
+2021/03/27-14:51:59.837 d636 Reusing MANIFEST /home/hliu/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/27-14:51:59.837 d636 Recovering log #7
+2021/03/27-14:51:59.848 d636 Reusing old log /home/hliu/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000007.log 
+2021/03/27-14:52:03.896 d636 Level-0 table #11: started
+2021/03/27-14:52:03.915 d636 Level-0 table #11: 1539339 bytes OK
+2021/03/27-14:52:03.919 d636 Delete type=0 #7

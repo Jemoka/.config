@@ -3,16 +3,18 @@
 # Import the colors
 . "${HOME}/.cache/wal/colors.sh"
 
-WALLPAPERS=`ls ${HOME}/Documents/Resources/wallpapers/wallpaper*`
 
-cr='
-'
-for item in ${WALLPAPERS//\\n/$cr}
+WALLPATH="${HOME}/Documents/Resources/wallpapers"
+SPLIT_WALLPAPERS=""
+
+for line in "$WALLPATH"/wallpaper*
 do
-   echo "Item: $item"
+    SPLIT_WALLPAPERS="$(basename $line)\n$SPLIT_WALLPAPERS"; 
 done
 
-CHOSEN=$(echo "${WALLPAPERS}" | dmenu -p "Wallpaper" -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color15" -fn 'Hack Nerd Font:pixelsize=14:antialias=true:autohint=true' -i -g 0 -l 1000)
+SPLIT_WALLPAPERS=$(echo "${SPLIT_WALLPAPERS}"|head -c -1)
 
-wal -i $CHOSEN
+CHOSEN=$(echo "${SPLIT_WALLPAPERS}" | dmenu -p "Wallpaper" -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color15" -fn 'Hack Nerd Font:pixelsize=14:antialias=true:autohint=true' -i -g 0 -l 1000)
+
+wal -i "$WALLPATH/$CHOSEN"
 

@@ -1,0 +1,35 @@
+[Print Settings]
+evince-print-setting-page-scale=1
+default-source=Auto
+cups-OutputBin=Auto
+media-type=PlainPaper
+cups-MediaType=PlainPaper
+cups-job-priority=50
+duplex=horizontal
+cups-Duplex=DuplexNoTumble
+cups-number-up=1
+evince-print-setting-page-autorotate=true
+evince-print-setting-page-size=false
+cover-before=none
+cups-CNDraftMode=False
+cups-CNHalftone=Gradation
+cups-InputSlot=Auto
+print-at-time=
+output-bin=Auto
+cups-BindEdge=Left
+cover-after=none
+print-at=now
+printer=MF4800
+cups-CNSpecialPrintMode=Mode3
+cups-job-sheets=none,none
+
+[Page Setup]
+PPDName=Letter
+DisplayName=US Letter
+Width=215.89999389648438
+Height=279.39999389648438
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

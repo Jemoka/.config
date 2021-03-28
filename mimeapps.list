@@ -1,5 +1,5 @@
 [Added Associations]
-application/pdf=okularApplication_pdf.desktop;firefox.desktop;libreoffice-draw.desktop;acroread.desktop;wine-extension-pdf.desktop;org.gnome.Evince.desktop;xournal.desktop;mupdf.desktop;org.inkscape.Inkscape.desktop;
+application/pdf=okularApplication_pdf.desktop;org.gnome.Evince.desktop;firefox.desktop;libreoffice-draw.desktop;acroread.desktop;wine-extension-pdf.desktop;mupdf.desktop;org.inkscape.Inkscape.desktop;com.github.xournalpp.xournalpp.desktop;net.sourceforge.gscan2pdf.desktop;pdfchain.desktop;
 image/jpeg=okularApplication_kimgio.desktop;feh.desktop;mupdf.desktop;wine-extension-jpe.desktop;wine-extension-jfif.desktop;
 
 [Default Applications]
