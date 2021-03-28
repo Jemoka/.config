@@ -6,5 +6,7 @@ super + shift + t
     ~/.config/scripts/dmenu_toggl.sh
 super + shift + w
     ~/.config/scripts/dmenu_wallpaper.sh
+super + shift + s
+    ~/.config/scripts/dmenu_windows.sh
 
 

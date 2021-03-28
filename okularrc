@@ -2,31 +2,31 @@
 FullScreen=false
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAuQAAALPAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABWIAAALPAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1 Height 1440x900=803
 eDP-1 Width 1440x900=740
 eDP-1 XPosition 1440x900=31
 eDP-1 YPosition 1440x900=66
 eDP1 Height 1440x900=803
-eDP1 Width 1440x900=740
+eDP1 Width 1440x900=1378
 eDP1 XPosition 1440x900=31
 eDP1 YPosition 1440x900=66
 
 [Recent Files]
 File1[$e]=$HOME/Documents/Official Docs/Shabang/Taxes/IRS Mailing Envelope.pdf
-File2[$e]=$HOME/Documents/preprints202004.0214.v1.pdf
-File3[$e]=$HOME/Documents/Official Docs/Family-Personal/1Password Emergency Kit.pdf
-File4[$e]=$HOME/Documents/Misc/Edges.png
-File5[$e]=$HOME/Documents/Misc/Citizenship/Citizenship.pdf
-File6[$e]=$HOME/Documents/Misc/n-400.pdf
-File7[$e]=$HOME/Documents/Misc/Practice_Test_2.pdf
-File8[$e]=$HOME/Documents/paper_main.pdf
+File2[$e]=$HOME/Documents/Official Docs/Family-Personal/1Password Emergency Kit.pdf
+File3[$e]=$HOME/Documents/Misc/Citizenship/Citizenship.pdf
+File4[$e]=$HOME/Documents/Projects/Condution/Teaser.png
+File5[$e]=$HOME/Documents/Misc/Practice_Test_2.pdf
+File6[$e]=$HOME/Documents/eBooks/Cracking the AP Calculus BC Exam, 2020 Edition.epub
+File7[$e]=$HOME/Documents/Misc/n-400.pdf
+File9[$e]=$HOME/Documents/Misc/PastedGraphic-4.png
 Name1[$e]=IRS Mailing Envelope.pdf
-Name2[$e]=preprints202004.0214.v1.pdf
-Name3[$e]=1Password Emergency Kit.pdf
-Name4[$e]=Edges.png
-Name5[$e]=Citizenship.pdf
-Name6[$e]=n-400.pdf
-Name7[$e]=Practice_Test_2.pdf
-Name8[$e]=paper_main.pdf
+Name2[$e]=1Password Emergency Kit.pdf
+Name3[$e]=Citizenship.pdf
+Name4[$e]=Teaser.png
+Name5[$e]=Practice_Test_2.pdf
+Name6[$e]=Cracking the AP Calculus BC Exam, 2020 Edition.epub
+Name7[$e]=n-400.pdf
+Name9[$e]=PastedGraphic-4.png

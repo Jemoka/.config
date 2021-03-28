@@ -1,3 +1,6 @@
-2021/03/27-14:38:05.469 7c25 Reusing MANIFEST /home/hliu/.config/Condution/Local Storage/leveldb/MANIFEST-000001
-2021/03/27-14:38:05.470 7c25 Recovering log #4
-2021/03/27-14:38:05.470 7c25 Reusing old log /home/hliu/.config/Condution/Local Storage/leveldb/000004.log 
+2021/03/28-08:59:53.854 146a Reusing MANIFEST /home/hliu/.config/Condution/Local Storage/leveldb/MANIFEST-000001
+2021/03/28-08:59:53.854 146a Recovering log #4
+2021/03/28-08:59:53.857 146a Reusing old log /home/hliu/.config/Condution/Local Storage/leveldb/000004.log 
+2021/03/28-10:57:25.098 146b Level-0 table #8: started
+2021/03/28-10:57:25.103 146b Level-0 table #8: 8483 bytes OK
+2021/03/28-10:57:25.107 146b Delete type=0 #4

@@ -1,10 +1,14 @@
 [Added Associations]
+application/epub+zip=okularApplication_epub.desktop;mupdf.desktop;
 application/pdf=okularApplication_pdf.desktop;org.gnome.Evince.desktop;firefox.desktop;libreoffice-draw.desktop;acroread.desktop;wine-extension-pdf.desktop;mupdf.desktop;org.inkscape.Inkscape.desktop;com.github.xournalpp.xournalpp.desktop;net.sourceforge.gscan2pdf.desktop;pdfchain.desktop;
 image/jpeg=okularApplication_kimgio.desktop;feh.desktop;mupdf.desktop;wine-extension-jpe.desktop;wine-extension-jfif.desktop;
+image/png=okularApplication_kimgio.desktop;wine-extension-png.desktop;feh.desktop;mupdf.desktop;
 
 [Default Applications]
+application/epub+zip=okularApplication_epub.desktop;
 application/pdf=okularApplication_pdf.desktop;
 image/jpeg=okularApplication_kimgio.desktop;
+image/png=okularApplication_kimgio.desktop;
 text/html=brave-browser.desktop
 x-scheme-handler/about=brave-browser.desktop
 x-scheme-handler/http=brave-browser.desktop

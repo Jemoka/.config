@@ -1,3 +1,7 @@
+[Main View]
+ShowLeftPanel=false
+SplitterSizes=364,375
+
 [PageView]
 MouseMode=TextSelect
 
