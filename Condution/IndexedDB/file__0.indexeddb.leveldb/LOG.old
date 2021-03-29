@@ -1,12 +1,3 @@
-2021/03/28-08:13:21.220 648 Reusing MANIFEST /home/hliu/.config/Condution/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2021/03/28-08:13:21.221 648 Recovering log #25
-2021/03/28-08:13:21.301 648 Reusing old log /home/hliu/.config/Condution/IndexedDB/file__0.indexeddb.leveldb/000025.log 
-2021/03/28-08:29:39.434 648 Level-0 table #30: started
-2021/03/28-08:29:39.498 648 Level-0 table #30: 776250 bytes OK
-2021/03/28-08:29:39.512 648 Delete type=0 #25
-2021/03/28-08:29:55.502 644 Compacting 1@1 + 1@2 files
-2021/03/28-08:29:55.582 644 Generated table #31@1: 19449 keys, 2072719 bytes
-2021/03/28-08:29:55.582 644 Compacted 1@1 + 1@2 files => 2072719 bytes
-2021/03/28-08:29:55.594 644 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/03/28-08:29:55.595 644 Delete type=2 #30
-2021/03/28-08:29:55.595 644 Delete type=2 #27
+2021/03/28-08:59:54.416 146a Reusing MANIFEST /home/hliu/.config/Condution/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/03/28-08:59:54.416 146a Recovering log #29
+2021/03/28-08:59:54.427 146a Reusing old log /home/hliu/.config/Condution/IndexedDB/file__0.indexeddb.leveldb/000029.log 
