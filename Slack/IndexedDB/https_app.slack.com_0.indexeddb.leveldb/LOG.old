@@ -1,3 +1,3 @@
-2021/03/28-18:58:57.380 58f Reusing MANIFEST /home/hliu/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/28-18:58:57.380 58f Recovering log #10
-2021/03/28-18:58:57.381 58f Reusing old log /home/hliu/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000010.log 
+2021/03/28-19:25:18.213 76e Reusing MANIFEST /home/hliu/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/28-19:25:18.213 76e Recovering log #10
+2021/03/28-19:25:18.214 76e Reusing old log /home/hliu/.config/Slack/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000010.log 
