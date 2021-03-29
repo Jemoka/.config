@@ -1,7 +1,7 @@
 [1]
 Active Tab Index=0
 Tab Count=1
-Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00\x19file:///home/hliu/Desktop\x00\x00\x00\x00\x01\x00\x00\x005file:///home/hliu/Desktop/discord-0.0.12%20(1).tar.gz\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x02*\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00"file:///home/hliu/Documents/eBooks\x00\x00\x00\x00\x01\x00\x00\x00dfile:///home/hliu/Documents/eBooks/Cracking%20the%20AP%20Calculus%20BC%20Exam,%202020%20Edition.epub\x00\x00\x00\x01\x00\x00\x00dfile:///home/hliu/Documents/eBooks/Cracking%20the%20AP%20Calculus%20BC%20Exam,%202020%20Edition.epub\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x02*\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00,file:///home/hliu/Documents/Misc/Citizenship\x00\x00\x00\x00\x01\x00\x00\x00<file:///home/hliu/Documents/Misc/Citizenship/Citizenship.pdf\x00\x00\x00\x01\x00\x00\x00<file:///home/hliu/Documents/Misc/Citizenship/Citizenship.pdf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [WindowProperties1]
@@ -9,12 +9,12 @@ ClassName=DolphinMainWindow
 MenuBar=Disabled
 ObjectName=Dolphin#1
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAwAAAAAAAADWAAAC8PwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAzAAAC8AAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAACUQAAAvAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADWAAAC8PwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAzAAAC8AAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAA/wAAAvAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 eDP-1 Height 1440x900=391
 eDP-1 Width 1440x900=605
 eDP-1 XPosition 1440x900=802
 eDP-1 YPosition 1440x900=65
 eDP1 Height 1440x900=803
-eDP1 Width 1440x900=808
-eDP1 XPosition 1440x900=31
+eDP1 Width 1440x900=470
+eDP1 XPosition 1440x900=938
 eDP1 YPosition 1440x900=66
