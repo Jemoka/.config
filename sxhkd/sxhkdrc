@@ -9,7 +9,7 @@ super + shift + w
 super + shift + s
     ~/.config/scripts/dmenu_windows.sh
 XF86AudioMute
-    pulseaudio-ctl mute-input
+    pulseaudio-ctl mute
 XF86Audio{Raise,Lower}Volume
     pulseaudio-ctl {up,down} 5
 

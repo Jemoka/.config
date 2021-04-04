@@ -7,6 +7,12 @@ killall -q polybar
 
 # Launch bar1 and bar2
 echo "---" | tee -a /tmp/topbar.log
-polybar top 2>&1 | tee -a /tmp/topbar.log & disown
+if type "xrandr"; then
+  for m in $(xrandr --query | grep " connected" | cut -d" " -f1); do
+    MONITOR=$m polybar top 2>&1 | tee -a /tmp/topbar.log & disown
+  done
+else
+    polybar top 2>&1 | tee -a /tmp/topbar.log & disown
+fi
 
 echo "Bars launched..."

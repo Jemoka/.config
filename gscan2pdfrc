@@ -123,8 +123,8 @@
    "rotate reverse" : 0,
    "scan prefix" : "",
    "scan-reload-triggers" : "mode",
-   "scan_window_height" : 59,
-   "scan_window_width" : 178,
+   "scan_window_height" : 143,
+   "scan_window_width" : 356,
    "selection" : null,
    "set_timestamp" : 1,
    "subject" : "",
@@ -133,15 +133,6 @@
    "threshold-before-ocr" : "",
    "thumb panel" : 100,
    "tiff compression" : null,
-   "timezone offset" : [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-   ],
    "title" : "",
    "title-suggestions" : [],
    "to_png" : 1,
@@ -188,9 +179,9 @@
       "x" : 1,
       "y" : 1
    },
-   "window_height" : 803,
+   "window_height" : 798,
    "window_maximize" : 1,
-   "window_width" : 740,
-   "window_x" : 667,
-   "window_y" : 65
+   "window_width" : 1378,
+   "window_x" : 30,
+   "window_y" : 50
 }
