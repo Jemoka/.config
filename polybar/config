@@ -52,7 +52,7 @@ line-color = #f00
 border-size = 4
 border-color = #00000000
 
-padding-left = 0
+padding-left = 3
 padding-right = 2
 
 module-margin-left = 1
@@ -62,7 +62,7 @@ font-0 = fixed:pixelsize=10;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
 
-modules-left = bspwm i3 dwm
+modules-left = powermenu bspwm i3 dwm
 modules-center =
 modules-right = pulseaudio xkeyboard wlan battery date
 
@@ -182,7 +182,7 @@ format = <label-tags> <label-layout> <label-floating> <label-title>
 ; socket-path = /tmp/dwm.sock
 
 ; Left-click to view tag, right-click to toggle tag view
-enable-tags-click = false
+enable-tags-click = true
 ; Scroll to cycle between available tags
 enable-tags-scroll = false
 ; If true and enable-tags-scroll = true, scrolling will view all tags regardless if occupied
@@ -461,7 +461,7 @@ format-warn-underline = ${self.format-underline}
 
 label = %temperature-c%
 label-warn = %temperature-c%
-label-warn-foreground = ${colors.secondary}
+label-warn-foreground = ${colors.s falseecondary}
 
 ramp-0 = 
 ramp-1 = 
@@ -476,7 +476,7 @@ expand-right = true
 format-spacing = 1
 
 label-open = 
-label-open-foreground = ${colors.secondary}
+label-open-foreground = ${colors.foreground}
 label-close =  cancel
 label-close-foreground = ${colors.secondary}
 label-separator = |
