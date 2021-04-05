@@ -88,7 +88,7 @@ cursor-scroll = ns-resize
 
 [module/toggl]
 type = custom/script
-exec = ./toggl.sh
+exec = ~/.config/polybar/toggl.sh
 format-prefix = "⧗ "
 format-underline = #eb4034
 interval = 2
@@ -514,7 +514,7 @@ screenchange-reload = true
 ;pseudo-transparency = false
 
 [global/wm]
-margin-top = 5
+margin-top = 10
 margin-bottom = 5
 
 ; vim:ft=dosini

@@ -3302,3 +3302,49 @@
 23:30:43.726862 table@remove removed @1084
 23:30:43.727184 table@remove removed @1085
 23:30:43.727231 table@remove removed @1086
+=============== Apr 4, 2021 (PDT) ===============
+12:50:06.924632 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:50:06.925874 version@stat F·[0 16] S·30MiB[0B 30MiB] Sc·[0.00 0.31]
+12:50:06.925920 db@open opening
+12:50:06.926124 journal@recovery F·1
+12:50:06.927275 journal@recovery recovering @1087
+12:50:06.939120 memdb@flush created L0@1099 N·831 S·40KiB "\x00\x00\x00..tml,v3235506":"\x0e\x00\x00..pdf,d3235518"
+12:50:06.940011 version@stat F·[1 16] S·30MiB[40KiB 30MiB] Sc·[0.25 0.31]
+12:50:06.967413 db@janitor F·20 G·1
+12:50:06.967435 db@janitor removing table-1074
+12:50:06.967490 db@open done T·41.558794ms
+12:50:08.550472 table@compaction L0·1 -> L1·10 S·18MiB Q·3236154
+12:50:08.805511 table@build created L1@1102 N·20744 S·2MiB "\x00\x00\x00..458,v2790338":"\x00\x00\x00..pdf,v3088946"
+12:50:08.999981 table@build created L1@1103 N·45756 S·2MiB "\x00\x00\x00..tml,v3088949":"\x01\x00\x00..b76,v2709482"
+12:50:09.113422 table@build created L1@1104 N·53958 S·2MiB "\x01\x00\x00..3e8,v2709484":"\x01\x00\x00..png,v3215726"
+12:50:09.181049 table@build created L1@1105 N·24392 S·2MiB "\x01\x00\x00..png,v3215374":"\x02\x00\x00..wav,v2892063"
+12:50:09.234651 table@build created L1@1106 N·23484 S·2MiB "\x02\x00\x00..743,v2859639":"\x02\x00\x00..pyi,v2850912"
+12:50:09.294058 table@build created L1@1107 N·31725 S·2MiB "\x02\x00\x00..pyi,v2933938":"\v\x00\x00..\x00g\x1c,v2439946"
+12:50:09.367337 table@build created L1@1108 N·48937 S·2MiB "\v\x00\x00..\x00g\x1d,v2439952":"\v\x00\x00..\x011\xaa,v2997210"
+12:50:09.402067 table@build created L1@1109 N·12508 S·2MiB "\v\x00\x00..\x011\xab,v2997216":"\x0e\x00\x00..pyc,v2879054"
+12:50:09.549231 table@build created L1@1110 N·25755 S·2MiB "\x0e\x00\x00..pyc,v2823098":"\x0e\x00\x00...md,v2992395"
+12:50:09.585614 table@build created L1@1111 N·2808 S·187KiB "\x0e\x00\x00..tml,v2978331":"\x0e\x00\x00..png,v2973648"
+12:50:09.585690 version@stat F·[0 16] S·30MiB[0B 30MiB] Sc·[0.00 0.31]
+12:50:09.604782 table@compaction committed F-1 S-6KiB Ke·0 D·539 T·1.054273388s
+12:50:10.525799 table@remove removed @1089
+12:50:10.526084 table@remove removed @1090
+12:50:10.526360 table@remove removed @1091
+12:50:10.526641 table@remove removed @1092
+12:50:10.526903 table@remove removed @1093
+12:50:10.527166 table@remove removed @1094
+12:50:10.527598 table@remove removed @1095
+12:50:10.527880 table@remove removed @1096
+12:50:10.528141 table@remove removed @1097
+12:50:10.528198 table@remove removed @1098
+12:51:07.643485 memdb@flush N·25 S·2KiB
+12:51:07.646985 memdb@flush created L0@1113 N·25 S·699B "\x0337..ion,v3236161":"\x04wl..can,v3236156"
+12:51:07.647040 version@stat F·[1 16] S·30MiB[699B 30MiB] Sc·[0.25 0.31]
+12:51:07.650057 memdb@flush committed F·1 T·6.531129ms
+12:51:07.650138 journal@remove removed @1100
+12:51:07.650163 table@compaction range L-1 "":""
+12:51:07.650183 table@compaction L0·1 -> L1·1 S·2MiB Q·3236179
+12:51:07.684828 table@build created L1@1114 N·31725 S·2MiB "\x02\x00\x00..pyi,v2933938":"\v\x00\x00..\x00g\x1c,v2439946"
+12:51:07.684910 version@stat F·[0 16] S·30MiB[0B 30MiB] Sc·[0.00 0.31]
+12:51:07.687662 table@compaction committed F-1 S-703B Ke·0 D·25 T·37.453728ms
+12:51:07.687826 table@remove removed @1113
+12:51:07.688316 table@remove removed @1107

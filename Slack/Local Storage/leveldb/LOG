@@ -1,3 +1,18 @@
-2021/04/03-23:27:31.913 2036 Reusing MANIFEST /home/hliu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
-2021/04/03-23:27:31.915 2036 Recovering log #27
-2021/04/03-23:27:31.915 2036 Reusing old log /home/hliu/.config/Slack/Local Storage/leveldb/000027.log 
+2021/04/04-12:55:07.648 e0a Reusing MANIFEST /home/hliu/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2021/04/04-12:55:07.649 e0a Recovering log #27
+2021/04/04-12:55:07.650 e0a Reusing old log /home/hliu/.config/Slack/Local Storage/leveldb/000027.log 
+2021/04/04-12:56:16.479 e0d Level-0 table #31: started
+2021/04/04-12:56:16.489 e0d Level-0 table #31: 11003 bytes OK
+2021/04/04-12:56:16.501 e0d Delete type=0 #27
+2021/04/04-12:56:16.501 e0d Compacting 4@0 + 1@1 files
+2021/04/04-12:56:16.511 e0d Generated table #32@0: 10 keys, 2126 bytes
+2021/04/04-12:56:16.511 e0d Compacted 4@0 + 1@1 files => 2126 bytes
+2021/04/04-12:56:16.523 e0d compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/04-12:56:16.523 e0d Delete type=2 #31
+2021/04/04-12:56:16.523 e0d Delete type=2 #28
+2021/04/04-12:56:16.523 e0d Delete type=2 #26
+2021/04/04-12:56:16.523 e0d Delete type=2 #23
+2021/04/04-12:56:16.523 e0d Delete type=2 #20
+2021/04/04-21:28:53.066 e753 Level-0 table #34: started
+2021/04/04-21:28:53.076 e753 Level-0 table #34: 8980 bytes OK
+2021/04/04-21:28:53.088 e753 Delete type=0 #30
