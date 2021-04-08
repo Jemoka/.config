@@ -18,5 +18,5 @@ EnabledIMList=fcitx-keyboard-us-dvorak:True,googlepinyin:True,pinyin:False,shuan
 # Show Preedit String in Client Window
 # Available Value:
 # True False
-#PreeditStringInClientWindow=True
+PreeditStringInClientWindow=False
 

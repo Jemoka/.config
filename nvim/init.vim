@@ -265,6 +265,9 @@ map <Leader> <Plug>(easymotion-prefix)
 
 "#Jsdoc#"
 nmap <silent> <leader>jd <Plug>(jsdoc)
+
+"#Vim-R#"
+let R_assign = 0
 "----------------------------------"
 
 ""-=-=-=-=Keyboard Shortcuts-=-=-="" 

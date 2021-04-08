@@ -1,0 +1,6 @@
+{
+    "initial_working_directory": "~",
+    "editor_keybindings": "vim",
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash"
+}

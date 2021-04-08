@@ -8,8 +8,13 @@ super + shift + w
     ~/.config/scripts/dmenu_wallpaper.sh
 super + shift + s
     ~/.config/scripts/dmenu_windows.sh
+
 XF86AudioMute
     pulseaudio-ctl mute
+
 XF86Audio{Raise,Lower}Volume
     pulseaudio-ctl {up,down} 5
+
+XF86LaunchB
+    autorandr -c
 
