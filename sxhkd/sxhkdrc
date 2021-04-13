@@ -18,3 +18,17 @@ XF86Audio{Raise,Lower}Volume
 XF86LaunchB
     autorandr -c
 
+XF86MonBrightnessUp
+    macbook-lighter-screen -i 200
+
+XF86MonBrightnessDown
+    macbook-lighter-screen -d 200
+
+XF86KbdBrightnessUp
+    macbook-lighter-kbd -i 50
+
+XF86KbdBrightnessDown
+    macbook-lighter-kbd -d 50
+
+
+

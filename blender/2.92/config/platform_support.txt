@@ -1,1 +1,2 @@
 {Intel Open Source Technology Center/Mesa DRI Intel(R) HD Graphics 5000 (HSW GT3)/4.5 (Core Profile) Mesa 21.0.1}=SUPPORTED
+{Intel Open Source Technology Center/Mesa DRI Intel(R) HD Graphics 5000 (HSW GT3)/4.5 (Core Profile) Mesa 21.0.2}=SUPPORTED

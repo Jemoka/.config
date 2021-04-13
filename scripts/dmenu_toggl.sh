@@ -9,7 +9,8 @@ CHOSEN=$(echo "${TIMERS}\n\$tstart\n\$tstop" | dmenu -p "Timers" -nb "$color0" -
 
 [[ $TIMERS =~ (^|[[:space:]])$CHOSEN($|[[:space:]]) ]] && true || false
 
-if [ $? -eq 0 ]; then
+if [ $? -eq 0 -o $CHOSEN = "\$tstop" -o $CHOSEN = "\$tstart" ]
+then
     case $CHOSEN in
         "\$tstop")
             python -m toggl stop

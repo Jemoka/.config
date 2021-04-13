@@ -1,3 +1,3 @@
-2021/04/08-08:06:45.954 23490 Reusing MANIFEST /home/hliu/.config/Element/Local Storage/leveldb/MANIFEST-000001
-2021/04/08-08:06:45.958 23490 Recovering log #3
-2021/04/08-08:06:45.959 23490 Reusing old log /home/hliu/.config/Element/Local Storage/leveldb/000003.log 
+2021/04/08-16:27:31.701 94df Reusing MANIFEST /home/hliu/.config/Element/Local Storage/leveldb/MANIFEST-000001
+2021/04/08-16:27:31.702 94df Recovering log #3
+2021/04/08-16:27:31.705 94df Reusing old log /home/hliu/.config/Element/Local Storage/leveldb/000003.log 

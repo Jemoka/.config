@@ -127,12 +127,13 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="12.3692"
-         height="25.8645" />
+         width="401.659"
+         height="99.0843" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
-         usecurrent="1">
+         usecurrent="1"
+         persp="perspective12">
         <side
            id="XYfront"
            style="fill:#8686bf;stroke:none;stroke-linejoin:round;"
@@ -557,7 +558,14 @@
        state="1" />
     <group
        id="preferences"
-       state="1" />
+       state="1"
+       page="24"
+       x="243"
+       y="0"
+       w="953"
+       h="900"
+       visible="0"
+       placement="1" />
     <group
        id="gradienteditor" />
     <group
@@ -569,7 +577,7 @@
        path=""
        x="0"
        y="0"
-       w="418"
+       w="446"
        h="483"
        visible="1"
        state="2"
@@ -921,17 +929,20 @@
        partialdynamic="0" />
     <group
        id="rendering" />
+    <group
+       id="font"
+       unitType="2" />
   </group>
   <group
      id="extensions" />
   <group
      id="desktop"
-     style="">
+     style="fill:#2b0000;-inkscape-font-specification:'Hack Bold';font-family:Hack;font-size:74.66666667px;font-weight:bold;">
     <group
-       width="605"
-       height="803"
+       width="1378"
+       height="798"
        x="30"
-       y="65"
+       y="50"
        fullscreen="0"
        id="geometry"
        maximized="0" />
@@ -1039,5 +1050,15 @@
      iconTheme="breeze"
      menuIcons_canvas="0"
      menuIcons_layers="0"
-     menuIcons_objects="0" />
+     menuIcons_objects="0"
+     darkTheme="0"
+     preferDarkTheme="0"
+     symbolicIcons="0">
+    <group
+       id="breeze"
+       symbolicBaseColor="4244438271"
+       symbolicSuccessColor="665739519"
+       symbolicWarningColor="4134797567"
+       symbolicErrorColor="3661911039" />
+  </group>
 </inkscape>
