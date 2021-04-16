@@ -1,0 +1,24 @@
+#!/bin/zsh
+
+blueman-applet &
+nm-applet &
+~/.fehbg &
+picom &
+slstatus &
+sxhkd &
+xmodmap ~/.Xmodmap
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
+fcitx &
+wal -i ~/Documents/Resources/wallpapers/wallpaper_lighthouse.png &
+syncthing &
+dunst &
+xiccd &
+udiskie &
+light-locker &
+autorandr --change
+~/.config/polybar/bar.sh
+dwm > ~/.dwm.log
+# i3
+
