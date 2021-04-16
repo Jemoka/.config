@@ -1,7 +1,7 @@
 [1]
-Active Tab Index=1
-Tab Count=2
-Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x009file:///home/hliu/Documents/SchoolWork/Research/Resources\x00\x00\x00\x00\x01\x00\x00\x00Cfile:///home/hliu/Documents/SchoolWork/Research/Resources/Resources\x00\x00\x00\x01\x00\x00\x00Cfile:///home/hliu/Documents/SchoolWork/Research/Resources/Resources\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00\x1bfile:///home/hliu/Downloads\x00\x00\x00\x00\x01\x00\x00\x00&file:///home/hliu/Downloads/hatguy.png\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02&\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00+file:///home/hliu/Documents/Projects/usaypt\x00\x00\x00\x00\x01\x00\x00\x006file:///home/hliu/Documents/Projects/usaypt/uncmake.sh\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00/file:///home/hliu/.config/BetterDiscord/plugins\x00\x00\x00\x00\x01\xff\xff\xff\xff\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
@@ -10,17 +10,17 @@ ClassName=DolphinMainWindow
 MenuBar=Disabled
 ObjectName=Dolphin#1
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAwAAAAAAAABXAAAC6/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAzAAAC6wAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAACBQAAAusAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAwAAAAAAAABXAAAC6/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAzAAAC6wAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAACjAAAAusAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 eDP-1 HDMI-1 Height 1440x900=798
 eDP-1 HDMI-1 Height 1600x900=798
 eDP-1 HDMI-1 Width 1440x900=1378
 eDP-1 HDMI-1 Width 1600x900=677
 eDP-1 HDMI-1 XPosition 1440x900=1630
-eDP-1 HDMI-1 XPosition 1600x900=890
+eDP-1 HDMI-1 XPosition 1600x900=891
 eDP-1 HDMI-1 YPosition 1440x900=50
-eDP-1 HDMI-1 YPosition 1600x900=50
+eDP-1 HDMI-1 YPosition 1600x900=51
 eDP-1 Height 1440x900=798
-eDP-1 Width 1440x900=605
+eDP-1 Width 1440x900=740
 eDP-1 XPosition 1440x900=30
 eDP-1 YPosition 1440x900=50
 eDP1 HDMI1 Height 1440x900=803

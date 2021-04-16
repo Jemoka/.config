@@ -64,6 +64,7 @@ font-2 = siji:pixelsize=10;1
 
 modules-left = powermenu bspwm i3 dwm
 modules-center =
+;modules-right = pulseaudio xkeyboard wlan battery date
 modules-right = pulseaudio xkeyboard wlan battery date toggl
 
 tray-position = right
