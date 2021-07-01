@@ -1,15 +1,15 @@
+colorscheme gruvbox-alt
+colorscheme gruvbox
 q
 pl-create Kraftwerk MinMax Good
 quit
 exit
-colorscheme gruvbox
 colorscheme itunes
 pl-create Good Kraftwerk Songs
 update-cache -f
 update-cache 
 pl-rename Good OutKast Songs
 colort
-colorscheme gruvbox-alt
 colorscheme solarized-dark
 colorscheme dracula
 colorscheme cyan

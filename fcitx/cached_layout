@@ -6,6 +6,7 @@ English (US):us:English (US, intl., with dead keys):intl:en
 English (US):us:English (US, alt. intl.):alt-intl:en
 English (US):us:English (Colemak):colemak:en
 English (US):us:English (Colemak-DH):colemak_dh:en
+English (US):us:English (Colemak-DH ISO):colemak_dh_iso:en
 English (US):us:English (Dvorak):dvorak:en
 English (US):us:English (Dvorak, intl., with dead keys):dvorak-intl:en
 English (US):us:English (Dvorak, alt. intl.):dvorak-alt-intl:en
@@ -27,6 +28,7 @@ English (US):us:English (US, intl., AltGr Unicode combining, alt.):alt-intl-unic
 English (US):us:Atsina:ats:en
 English (US):us:Coeur d'Alene Salish:crd:crd
 English (US):us:Czech Slovak and German (US):cz_sk_de:en
+English (US):us:Czech, Slovak, Polish, Spanish, Finnish, Swedish and German (US):cz_sk_pl_de_es_fi_sv:en
 English (US):us:English (Drix):drix:en
 English (US):us:German, Swedish and Finnish (US):de_se_fi:en
 English (US):us:English (US, IBM Arabic 238_L):ibm238l:en
@@ -41,18 +43,6 @@ English (US):us:English (3l):3l:en
 English (US):us:English (3l, Chromebook):3l-cros:en
 English (US):us:English (3l, emacs):3l-emacs:en
 English (US):us:Sicilian (US keyboard):scn:en
-English (US):us:English (US, Hyena Layer5):hyena:en
-English (US):us:English (US, alt. intl., with dead keys, Hyena Layer5):hyena-alt-intl:en
-English (US):us:English (US, intl., AltGr Unicode combining, Hyena Layer5):hyena-intl-unicode:en
-English (US):us:English (Carpalx, full optimization, Hyena Layer5):hyena-carpalx:en
-English (US):us:English (Carpalx, full optimization, intl., with dead keys, Hyena Layer5):hyena-carpalx-intl:en
-English (US):us:English (Carpalx, full optimization, intl., with AltGr dead keys, Hyena Layer5):hyena-carpalx-altgr-intl:en
-English (US):us:English (US, MiniGuru Layer5):miniguru:en
-English (US):us:English (US, alt. intl., with dead keys, MiniGuru Layer5):miniguru-alt-intl:en
-English (US):us:English (US, intl., AltGr Unicode combining, MiniGuru Layer5):miniguru-intl-unicode:en
-English (US):us:English (US, TEX Yoda Layer5):yoda:en
-English (US):us:English (US, alt. intl., with dead keys, TEX Yoda Layer5):yoda-alt-intl:en
-English (US):us:English (US, intl., AltGr Unicode combining, TEX Yoda Layer5):yoda-intl-unicode:en
 Afghani:af:
 Afghani:af:Pashto:ps:ps
 Afghani:af:Uzbek (Afghanistan):uz:uz
@@ -108,7 +98,7 @@ Indian:in:Bangla (India, Probhat):ben_probhat:bn
 Indian:in:Bangla (India, Baishakhi):ben_baishakhi:bn
 Indian:in:Bangla (India, Bornona):ben_bornona:bn
 Indian:in:Bangla (India, Gitanjali):ben_gitanjali:bn
-Indian:in:Bangla (India, Baishakhi Inscript):ben_inscript:bn
+Indian:in:Bangla (India, Baishakhi InScript):ben_inscript:bn
 Indian:in:Manipuri (Eeyek):eeyek:mni
 Indian:in:Gujarati:guj:gu
 Indian:in:Punjabi (Gurmukhi):guru:pa
@@ -117,14 +107,16 @@ Indian:in:Kannada:kan:kn
 Indian:in:Kannada (KaGaPa, phonetic):kan-kagapa:kn
 Indian:in:Malayalam:mal:ml
 Indian:in:Malayalam (Lalitha):mal_lalitha:ml
-Indian:in:Malayalam (enhanced Inscript, with rupee):mal_enhanced:ml
+Indian:in:Malayalam (enhanced InScript, with rupee):mal_enhanced:ml
 Indian:in:Oriya:ori:or
+Indian:in:Oriya (Bolnagri):ori-bolnagri:or
+Indian:in:Oriya (Wx):ori-wx:or
 Indian:in:Ol Chiki:olck:sat
 Indian:in:Tamil (TamilNet '99):tam_tamilnet:ta
 Indian:in:Tamil (TamilNet '99 with Tamil numerals):tam_tamilnet_with_tam_nums:ta
 Indian:in:Tamil (TamilNet '99, TAB encoding):tam_tamilnet_TAB:ta
 Indian:in:Tamil (TamilNet '99, TSCII encoding):tam_tamilnet_TSCII:ta
-Indian:in:Tamil (Inscript):tam:ta
+Indian:in:Tamil (InScript):tam:ta
 Indian:in:Telugu:tel:te
 Indian:in:Telugu (KaGaPa, phonetic):tel-kagapa:te
 Indian:in:Telugu (Sarala):tel-sarala:te
@@ -137,10 +129,11 @@ Indian:in:Hindi (KaGaPa, phonetic):hin-kagapa:hi
 Indian:in:Sanskrit (KaGaPa, phonetic):san-kagapa:sa
 Indian:in:Marathi (KaGaPa, phonetic):mar-kagapa:mr
 Indian:in:English (India, with rupee):eng:en
-Indian:in:Indic IPA:iipa:
-Indian:in:Marathi (enhanced Inscript):marathi:mr
+Indian:in:Indic IPA:iipa:en
+Indian:in:Marathi (enhanced InScript):marathi:mr
 Indian:in:Modi (KaGaPa phonetic):modi-kagapa:mr
 Indian:in:Sanskrit symbols:san-misc:sa
+Indian:in:Urdu (Navees):urd-navees:ur
 Bosnian:ba:bs
 Bosnian:ba:Bosnian (with guillemets):alternatequotes:bs
 Bosnian:ba:Bosnian (with Bosnian digraphs):unicode:bs
@@ -159,9 +152,9 @@ Bulgarian:bg:Bulgarian (traditional phonetic):phonetic:bg
 Bulgarian:bg:Bulgarian (new phonetic):bas_phonetic:bg
 Bulgarian:bg:Bulgarian (enhanced):bekl:bg
 Berber (Algeria, Latin):dz:
-Berber (Algeria, Latin):dz:Kabyle (azerty layout, dead keys):azerty-deadkeys:kab
-Berber (Algeria, Latin):dz:Kabyle (qwerty-gb layout, dead keys):qwerty-gb-deadkeys:kab
-Berber (Algeria, Latin):dz:Kabyle (qwerty-us layout, dead keys):qwerty-us-deadkeys:kab
+Berber (Algeria, Latin):dz:Kabyle (AZERTY, with dead keys):azerty-deadkeys:kab
+Berber (Algeria, Latin):dz:Kabyle (QWERTY, UK, with dead keys):qwerty-gb-deadkeys:kab
+Berber (Algeria, Latin):dz:Kabyle (QWERTY, US, with dead keys):qwerty-us-deadkeys:kab
 Berber (Algeria, Latin):dz:Berber (Algeria, Tifinagh):ber:kab
 Berber (Algeria, Latin):dz:Arabic (Algeria):ar:ar
 Arabic (Morocco):ma:
@@ -177,7 +170,6 @@ English (Cameroon):cm:French (Cameroon):french:fr
 English (Cameroon):cm:Cameroon Multilingual (QWERTY, intl.):qwerty:en
 English (Cameroon):cm:Cameroon (AZERTY, intl.):azerty:fr
 English (Cameroon):cm:Cameroon (Dvorak, intl.):dvorak:en
-English (Cameroon):cm:Mmuock:mmuock:en
 English (Cameroon):cm:Mmuock:mmuock:en
 Burmese:mm:my
 Burmese:mm:Burmese Zawgyi:zawgyi:my
@@ -231,6 +223,7 @@ Danish:dk:Danish (Macintosh, no dead keys):mac_nodeadkeys:da
 Danish:dk:Danish (Dvorak):dvorak:da
 Danish:dk:Danish (Sun Type 6/7):sun_type6:da
 Dutch:nl:nl
+Dutch:nl:Dutch (US):us:nl
 Dutch:nl:Dutch (Macintosh):mac:nl
 Dutch:nl:Dutch (standard):std:nl
 Dutch:nl:Dutch (Sun Type 6/7):sun_type6:nl
@@ -293,7 +286,7 @@ English (Ghana):gh:Ga:ga:gaa
 English (Ghana):gh:Hausa (Ghana):hausa:ha
 English (Ghana):gh:Avatime:avn:avn
 English (Ghana):gh:English (Ghana, GILLBT):gillbt:en
-N'Ko (azerty):gn:nqo
+N'Ko (AZERTY):gn:nqo
 Georgian:ge:ka
 Georgian:ge:Georgian (ergonomic):ergonomic:ka
 Georgian:ge:Georgian (MESS):mess:ka
@@ -316,7 +309,7 @@ German:de:German (Macintosh, no dead keys):mac_nodeadkeys:de
 German:de:Lower Sorbian:dsb:dsb
 German:de:Lower Sorbian (QWERTZ):dsb_qwertz:dsb
 German:de:German (QWERTY):qwerty:de
-German:de:Turkish (Germany):tr:
+German:de:Turkish (Germany):tr:tr
 German:de:Russian (Germany, phonetic):ru:ru
 German:de:German (dead tilde):deadtilde:de
 German:de:German (with Hungarian letters, no dead keys):hu:de
@@ -380,7 +373,7 @@ Italian:it:Italian (intl., with dead keys):intl:it
 Italian:it:Sicilian:scn:it
 Italian:it:Friulian (Italy):fur:fur
 Italian:it:Italian (Sun Type 6/7):sun_type6:it
-Italian:it:Italian (Ladin):lld:lld
+Italian:it:Italian (Ladin):lld:it
 Italian:it:Italian (Dvorak):dvorak:it
 Japanese:jp:ja
 Japanese:jp:Japanese (Kana):kana:ja
@@ -433,6 +426,7 @@ Latvian:lv:Latvian (programmer Dvorak, with minus):minuskeydvorakprogr:lv
 Latvian:lv:Latvian (Colemak):colemak:lv
 Latvian:lv:Latvian (Colemak, with apostrophe):apostrophecolemak:lv
 Latvian:lv:Latvian (Sun Type 6/7):sun_type6:lv
+Latvian:lv:Latvian (apostrophe, dead quotes):apostrophe-deadquotes:lv
 Maori:mao:mi
 Montenegrin:me:sr
 Montenegrin:me:Montenegrin (Cyrillic):cyrillic:sr
@@ -446,7 +440,7 @@ Macedonian:mk:mk
 Macedonian:mk:Macedonian (no dead keys):nodeadkeys:mk
 Maltese:mt:mt
 Maltese:mt:Maltese (US):us:mt
-Maltese:mt:Maltese (US layout with AltGr overrides):alt-us:mt
+Maltese:mt:Maltese (US, with AltGr overrides):alt-us:mt
 Maltese:mt:Maltese (UK, with AltGr overrides):alt-gb:mt
 Mongolian:mn:mn
 Norwegian:no:no
@@ -596,6 +590,9 @@ Turkish:tr:Turkish (intl., with dead keys):intl:tr
 Turkish:tr:Crimean Tatar (Turkish Q):crh:crh
 Turkish:tr:Crimean Tatar (Turkish F):crh_f:crh
 Turkish:tr:Crimean Tatar (Turkish Alt-Q):crh_alt:crh
+Turkish:tr:Ottoman:ot:tr
+Turkish:tr:Ottoman (F):otf:tr
+Turkish:tr:Old Turkic:otk:tr
 Turkish:tr:Turkish (Sun Type 6/7):sun_type6:tr
 Turkish:tr:Old Turkic:otk:tr
 Taiwanese:tw:
@@ -621,12 +618,6 @@ English (UK):gb:English (UK, Colemak):colemak:en
 English (UK):gb:English (UK, Colemak-DH):colemak_dh:en
 English (UK):gb:Polish (British keyboard):pl:pl
 English (UK):gb:English (UK, Sun Type 6/7):sun_type6:en
-English (UK):gb:English (UK, Hyena Layer5):hyena:en
-English (UK):gb:English (UK, intl., with dead keys, Hyena Layer5):hyena-intl:en
-English (UK):gb:English (UK, MiniGuru Layer5):miniguru:en
-English (UK):gb:English (UK, intl., with dead keys, MiniGuru Layer5):miniguru-intl:en
-English (UK):gb:English (UK, TEX Yoda Layer5):yoda:en
-English (UK):gb:English (UK, intl., with dead keys, TEX Yoda Layer5):yoda-intl:en
 Uzbek:uz:uz
 Uzbek:uz:Uzbek (Latin):latin:uz
 Vietnamese:vn:vi
@@ -648,6 +639,7 @@ Urdu (Pakistan):pk:Urdu (Pakistan, CRULP):urd-crulp:ur
 Urdu (Pakistan):pk:Urdu (Pakistan, NLA):urd-nla:ur
 Urdu (Pakistan):pk:Arabic (Pakistan):ara:ar
 Urdu (Pakistan):pk:Sindhi:snd:sd
+Urdu (Pakistan):pk:Urdu (Navees, Pakistan):urd-navees:ur
 Dhivehi:mv:dv
 English (South Africa):za:en
 Esperanto:epo:eo
@@ -687,11 +679,12 @@ Filipino:ph:Filipino (Dvorak, Latin):dvorak:fil
 Filipino:ph:Filipino (Dvorak, Baybayin):dvorak-bay:fil
 Moldavian:md:ro
 Moldavian:md:Moldavian (Gagauz):gag:gag
-Indonesian (Arab Melayu, phonetic):id:id
-Indonesian (Arab Melayu, phonetic):id:Indonesian (Arab Melayu, extended phonetic):phoneticx:id
-Indonesian (Javanese):jv:
+Indonesian (Latin):id:id
+Indonesian (Latin):id:Indonesian (Arab Pegon, extended phonetic):phoneticx:id
+Indonesian (Javanese):jv:jv
 Malay (Jawi, Arabic Keyboard):my:id
 Malay (Jawi, Arabic Keyboard):my:Malay (Jawi, phonetic):phonetic:id
+A user-defined custom Layout:custom:
 APL:apl:en
 APL:apl:APL symbols (Dyalog APL):dyalog:en
 APL:apl:APL symbols (SAX, Sharp APL for Unix):sax:en

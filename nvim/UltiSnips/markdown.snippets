@@ -136,4 +136,16 @@ snippet "tb([1-9][1-9])" "Fancy table" br
 `!p snip.rv = match.group(1)`
 endsnippet
 
+snippet hugo "Hugo Template"
+---
+title: $1
+date:
+showDate: true
+draft: true
+---
+
+$2
+endsnippet
+
+
 # vim:ft=snippets:

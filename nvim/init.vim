@@ -35,6 +35,7 @@ Plug 'arcticicestudio/nord-vim'
 Plug 'rakr/vim-one'
 
 "#DEVELOPER TOOLS#"
+Plug 'cespare/vim-toml'
 Plug 'jceb/vim-orgmode'
 Plug 'tpope/vim-repeat'
 Plug 'honza/vim-snippets'
@@ -48,7 +49,7 @@ Plug 'michal-h21/vim-zettel'
 "Plug 'ivanov/vim-ipython'
 "Plug 'jpalardy/vim-slime'
 "Plug 'bfredl/nvim-ipy'
-"Plug 'hkupty/iron.nvim'
+Plug 'kovisoft/slimv'
 Plug 'urbainvaes/vim-ripple'
 Plug 'vimlab/split-term.vim'
 Plug 'goerz/jupytext.vim'
@@ -63,6 +64,7 @@ Plug 'tpope/vim-speeddating'
 Plug 'vim-scripts/taglist.vim'
 Plug 'scrooloose/nerdcommenter'
 Plug 'leafgarland/typescript-vim'
+Plug 'robertbasic/vim-hugo-helper'
 Plug 'KeitaNakamura/tex-conceal.vim'
 
 "#NEW lANGUAGES#"
@@ -141,7 +143,8 @@ noremap <silent><expr> <Space>g/ incsearch#go(<SID>config_easyfuzzymotion({'is_s
 
 "#AUTOCOMPLETE#"
 " Disable for md, tex, and vim
-autocmd BufNew,BufEnter *.md execute "silent! CocDisable"
+"autocmd BufNew,BufEnter *.md execute 
+""silent! CocDisable"
 
 " better key bindings for UltiSnipsExpandTrigger
 let g:UltiSnipsExpandTrigger = "jk"
@@ -268,6 +271,14 @@ nmap <silent> <leader>jd <Plug>(jsdoc)
 
 "#Vim-R#"
 let R_assign = 0
+
+"#Slimv#"
+let g:slimv_leader = 'r'
+
+"#Hugo#"
+noremap <Leader>hn :HugoHelperDateIsNow<CR>
+noremap <Leader>hd :HugoHelperDraft<CR>
+noremap <Leader>hu :HugoHelperUndraft<CR>
 "----------------------------------"
 
 ""-=-=-=-=Keyboard Shortcuts-=-=-="" 
