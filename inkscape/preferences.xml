@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <inkscape
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   version="1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1">
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
   <group
      id="window">
     <group
@@ -105,11 +105,14 @@
     <sodipodi:namedview
        id="base"
        pagecolor="#ffffff"
+       pageopacity="0.0"
+       pagecheckerboard="0"
        bordercolor="#666666"
        borderopacity="1.0"
        objecttolerance="10.0"
        gridtolerance="10.0"
        guidetolerance="10.0"
+       pageshadow="2"
        inkscape:pageopacity="0.0"
        inkscape:pageshadow="2"
        inkscape:window-width="640"
@@ -207,7 +210,9 @@
        tracebackground="0"
        usepressure="1"
        usetilt="0"
-       keep_selected="1">
+       keep_selected="1"
+       abs_width="1"
+       unit="mm">
       <group
          id="preset">
         <group
@@ -545,7 +550,9 @@
     <group
        id="align" />
     <group
-       id="xml" />
+       id="xml"
+       h="500"
+       w="300" />
     <group
        id="find" />
     <group
@@ -637,7 +644,9 @@
        id="treeeditor" />
     <group
        id="layers"
-       maxDepth="20" />
+       maxDepth="20"
+       w="200"
+       h="300" />
     <group
        id="extensioneditor" />
     <group
@@ -932,6 +941,16 @@
     <group
        id="font"
        unitType="2" />
+    <group
+       id="defaultwindowsize"
+       value="2" />
+    <group
+       id="boot"
+       theme="symbolic">
+      <group
+         id="shown"
+         ver1.1="1" />
+    </group>
   </group>
   <group
      id="extensions" />
@@ -943,9 +962,9 @@
        height="798"
        x="30"
        y="50"
+       maximized="1"
        fullscreen="0"
-       id="geometry"
-       maximized="0" />
+       id="geometry" />
     <group
        id="XYfront" />
     <group
@@ -1046,19 +1065,29 @@
      id="theme"
      defaultTheme="Breeze"
      defaultIconTheme="breeze"
-     gtkTheme="Breeze"
-     iconTheme="breeze"
+     gtkTheme="Adwaita"
      menuIcons_canvas="0"
      menuIcons_layers="0"
      menuIcons_objects="0"
      darkTheme="0"
      preferDarkTheme="0"
-     symbolicIcons="0">
+     symbolicIcons="1"
+     defaultPreferDarkTheme="0"
+     defaultGtkTheme="Breeze"
+     iconTheme="Adwaita"
+     symbolicDefaultBaseColors="1"
+     symbolicDefaultHighColors="1">
     <group
        id="breeze"
        symbolicBaseColor="4244438271"
        symbolicSuccessColor="665739519"
        symbolicWarningColor="4134797567"
        symbolicErrorColor="3661911039" />
+    <group
+       id="multicolor"
+       symbolicBaseColor="255"
+       symbolicSuccessColor="3435973887"
+       symbolicWarningColor="2155905279"
+       symbolicErrorColor="2155905279" />
   </group>
 </inkscape>

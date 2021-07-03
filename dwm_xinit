@@ -1,5 +1,12 @@
 #!/bin/zsh
 
+export GTK_SCALE=2
+export QT_AUTO_SCREEN_SCALE_FACTOR=1
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
+export QT_QPA_PLATFORMTHEME=qt5ct
+
 setxkbmap dvorak
 blueman-applet &
 # xbindkeys &
@@ -9,11 +16,6 @@ picom &
 sxhkd &
 #xmodmap ~/.Xmodmap
 xrdb -merge ~/.Xresources
-export GTK_SCALE=2
-export QT_AUTO_SCREEN_SCALE_FACTOR=1
-export GTK_IM_MODULE=fcitx
-export QT_IM_MODULE=fcitx
-export XMODIFIERS=@im=fcitx
 fcitx &
 wal -i ~/Resources/wallpaper_sharpglass.jpg &
 # syncthing &
