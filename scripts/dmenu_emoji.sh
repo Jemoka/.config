@@ -19,7 +19,7 @@ case "$1" in
     fi
     ;;
   "")
-    bash $0 list | dmenu -p 'Emoji: ' -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color15" -fn 'Hack Nerd Font:pixelsize=14:antialias=true:autohint=true' | bash $0 copy
+    bash $0 list | dmenu -p 'Emoji: ' -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color15" -fn 'Hack Nerd Font:pixelsize=22:antialias=true:autohint=true' | bash $0 copy
     ;;
 esac
 

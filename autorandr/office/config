@@ -1,17 +1,18 @@
 output DP-1
 off
-output DP-2
+output HDMI-1
 off
 output HDMI-2
 off
-output HDMI-1
+output DP-2
 crtc 1
 mode 1600x900
 pos 0x0
 rate 59.98
+transform 2.000000,0.000000,0.000000,0.000000,2.000000,0.000000,0.000000,0.000000,1.000000
 output eDP-1
 crtc 0
-mode 1440x900
-pos 1600x0
+mode 2560x1600
+pos 3200x200
 primary
 rate 60.00

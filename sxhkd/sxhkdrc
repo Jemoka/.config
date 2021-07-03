@@ -1,5 +1,7 @@
 super + shift + 4
     maim -s | xclip -selection clipboard -t image/png
+super + shift + 3
+    flameshot gui
 super + shift + Return
     dolphin &
 super + shift + t
@@ -8,6 +10,8 @@ super + shift + w
     ~/.config/scripts/dmenu_wallpaper.sh
 super + shift + s
     ~/.config/scripts/dmenu_windows.sh
+super + shift + k
+    xkill
 
 XF86AudioMute
     pulseaudio-ctl mute
@@ -19,10 +23,10 @@ XF86LaunchB
     autorandr -c
 
 XF86MonBrightnessUp
-    macbook-lighter-screen -i 200
+    macbook-lighter-screen -i 100
 
 XF86MonBrightnessDown
-    macbook-lighter-screen -d 200
+    macbook-lighter-screen -d 100
 
 XF86KbdBrightnessUp
     macbook-lighter-kbd -i 50

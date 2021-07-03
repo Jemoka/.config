@@ -1,22 +1,27 @@
 #!/bin/zsh
 
+setxkbmap dvorak
 blueman-applet &
+# xbindkeys &
 nm-applet &
-~/.fehbg &
 picom &
-slstatus &
+# slstatus &
 sxhkd &
-xmodmap ~/.Xmodmap
+#xmodmap ~/.Xmodmap
+xrdb -merge ~/.Xresources
+export GTK_SCALE=2
+export QT_AUTO_SCREEN_SCALE_FACTOR=1
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS=@im=fcitx
 fcitx &
-wal -i ~/Documents/Resources/wallpapers/wallpaper_lighthouse.png &
-syncthing &
+wal -i ~/Resources/wallpaper_sharpglass.jpg &
+# syncthing &
+flameshot &
 dunst &
-xiccd &
+# xiccd &
 udiskie &
-light-locker &
+# light-locker &
 autorandr --change
 ~/.config/polybar/bar.sh
 dwm > ~/.dwm.log

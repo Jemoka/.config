@@ -5,7 +5,7 @@
 
 TIMERS=`python -m toggl -s ls -f description | sort -r | uniq`
 
-CHOSEN=$(echo "${TIMERS}\n\$tstart\n\$tstop" | dmenu -p "Timers" -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color15" -fn 'Hack Nerd Font:pixelsize=14:antialias=true:autohint=true' -i)
+CHOSEN=$(echo "${TIMERS}\n\$tstart\n\$tstop" | dmenu -p "Timers" -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color15" -fn 'Hack Nerd Font:pixelsize=22:antialias=true:autohint=true' -i)
 
 [[ $TIMERS =~ (^|[[:space:]])$CHOSEN($|[[:space:]]) ]] && true || false
 
