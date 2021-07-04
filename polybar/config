@@ -66,7 +66,7 @@ font-2 = siji:pixelsize=14:antialias=true;1
 modules-left = powermenu bspwm dwm
 modules-center =
 ;modules-right = pulseaudio xkeyboard wlan battery date
-modules-right = pulseaudio xkeyboard wlan battery date toggl
+modules-right = pipewire wlan battery date toggl
 
 tray-position = right
 tray-padding = 0
@@ -87,6 +87,17 @@ format-prefix = "⧗ "
 format-underline = #eb4034
 interval = 2
 format-foreground = ${colors.foreground}
+
+[module/pipewire]
+type = custom/script
+exec = ~/.config/polybar/pipewire.sh
+format-prefix = "♪ "
+format-underline = #a903fc
+interval = 0.5
+format-foreground = ${colors.foreground}
+click-left = ~/.config/polybar/pipewire.sh mute &
+scroll-up = ~/.config/polybar/pipewire.sh up &
+scroll-down = ~/.config/polybar/pipewire.sh down &
 
 [module/xwindow]
 type = internal/xwindow

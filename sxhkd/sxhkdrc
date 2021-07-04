@@ -14,10 +14,10 @@ super + shift + k
     xkill
 
 XF86AudioMute
-    pulseaudio-ctl mute
+    pactl set-sink-mute @DEFAULT_SINK@ toggle
 
 XF86Audio{Raise,Lower}Volume
-    pulseaudio-ctl {up,down} 5
+    pactl set-sink-volume @DEFAULT_SINK@ {+5%,-5%}
 
 XF86LaunchB
     autorandr -c
