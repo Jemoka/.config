@@ -23,7 +23,7 @@ flameshot &
 dunst &
 # xiccd &
 udiskie &
-# light-locker &
+light-locker &
 autorandr --change
 ~/.config/polybar/bar.sh
 dwm > ~/.dwm.log
