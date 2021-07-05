@@ -1,1 +1,1 @@
-(load "~/common-lisp/quicklisp.lisp")
+(load "~/quicklisp/setup.lisp")
