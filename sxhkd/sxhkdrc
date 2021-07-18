@@ -1,5 +1,5 @@
 super + shift + 4
-    maim -s | xclip -selection clipboard -t image/png
+    maim -s -u | xclip -selection clipboard -t image/png
 super + shift + 3
     flameshot gui
 super + shift + Return
@@ -12,6 +12,8 @@ super + shift + s
     ~/.config/scripts/dmenu_windows.sh
 super + shift + k
     xkill
+super + shift + e
+    emacsclient -c
 
 XF86AudioMute
     pactl set-sink-mute @DEFAULT_SINK@ toggle

@@ -40,6 +40,7 @@ Plug 'jceb/vim-orgmode'
 Plug 'tpope/vim-repeat'
 Plug 'honza/vim-snippets'
 "Plug 'vimwiki/vimwiki'
+Plug 'm-pilia/vim-mediawiki'
 Plug 'mbbill/undotree'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
@@ -74,6 +75,7 @@ Plug 'MaxMEllon/vim-jsx-pretty'
 Plug 'pangloss/vim-javascript'
 Plug 'plasticboy/vim-markdown'
 Plug 'ekalinin/Dockerfile.vim'
+Plug 'peterhoeg/vim-qml'
 "Plug 'szymonmaszke/vimpyter'
 Plug 'jalvesaq/Nvim-R', {'branch': 'stable'}
 
@@ -260,9 +262,6 @@ let g:ripple_repls = {
             \ "sh": "bash"
             \ }
 
-"#fzf-vim#"
-cnoremap W w
-
 "#EasyFuzzyMotion#"
 map <Leader> <Plug>(easymotion-prefix)
 
@@ -279,6 +278,9 @@ let g:slimv_leader = 'r'
 noremap <Leader>hn :HugoHelperDateIsNow<CR>
 noremap <Leader>hd :HugoHelperDraft<CR>
 noremap <Leader>hu :HugoHelperUndraft<CR>
+
+"#MediaWiki#"
+let g:vim_mediawiki_site = 'wiki.sanity.gq'
 "----------------------------------"
 
 ""-=-=-=-=Keyboard Shortcuts-=-=-="" 

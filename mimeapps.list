@@ -32,3 +32,4 @@ x-scheme-handler/mailspring=Mailspring.desktop
 x-scheme-handler/postman=Postman.desktop
 x-scheme-handler/tg=userapp-Telegram Desktop-DFEK60.desktop
 x-scheme-handler/unknown=chromium.desktop
+x-scheme-handler/mailto=Mailspring.desktop

@@ -1067,16 +1067,15 @@
      id="theme"
      defaultTheme="Breeze"
      defaultIconTheme="breeze"
-     gtkTheme="Adwaita"
+     gtkTheme="Adwaita-dark"
      menuIcons_canvas="0"
      menuIcons_layers="0"
      menuIcons_objects="0"
-     darkTheme="0"
+     darkTheme="1"
      preferDarkTheme="0"
      symbolicIcons="1"
      defaultPreferDarkTheme="0"
      defaultGtkTheme="Breeze"
-     iconTheme="Adwaita"
      symbolicDefaultBaseColors="1"
      symbolicDefaultHighColors="1">
     <group
@@ -1088,8 +1087,14 @@
     <group
        id="multicolor"
        symbolicBaseColor="255"
-       symbolicSuccessColor="3435973887"
-       symbolicWarningColor="2155905279"
-       symbolicErrorColor="2155905279" />
+       symbolicSuccessColor="10029567"
+       symbolicWarningColor="4279865599"
+       symbolicErrorColor="10086143" />
+    <group
+       id="Adwaita"
+       symbolicBaseColor="775173887"
+       symbolicSuccessColor="869366527"
+       symbolicWarningColor="4118348031"
+       symbolicErrorColor="3422552319" />
   </group>
 </inkscape>

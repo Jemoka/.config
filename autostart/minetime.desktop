@@ -3,6 +3,6 @@ Type=Application
 Version=1.0
 Name=minetime
 Comment=minetimestartup script
-Exec=/tmp/.mount_minetieOkw2V/minetime
+Exec=/opt/MineTime/minetime
 StartupNotify=false
 Terminal=false
