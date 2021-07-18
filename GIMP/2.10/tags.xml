@@ -1177,7 +1177,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="(null)">
+  <resource identifier="gimp-palette-color-history" checksum="f76783ff0a059dd97e17a834ccfdcb2e">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1468,6 +1468,30 @@
   <resource identifier="Material Icons" checksum="(null)">
   </resource>
 
+  <resource identifier="Monoid Nerd Font Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Mono Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Mono Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Mono Light Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Mono Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Monoid Nerd Font Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Monospace" checksum="(null)">
   </resource>
 
@@ -1601,6 +1625,42 @@
   </resource>
 
   <resource identifier="Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="SFMono Nerd Font Mono Semi-Bold Italic" checksum="(null)">
   </resource>
 
   <resource identifier="siji" checksum="(null)">
