@@ -10,6 +10,8 @@ super + shift + w
     ~/.config/scripts/dmenu_wallpaper.sh
 super + shift + s
     ~/.config/scripts/dmenu_windows.sh
+super + shift + p
+    ~/.config/scripts/dmenu_emoji.sh
 super + shift + k
     xkill
 super + shift + e
