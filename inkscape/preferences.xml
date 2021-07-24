@@ -1072,7 +1072,7 @@
      menuIcons_layers="0"
      menuIcons_objects="0"
      darkTheme="1"
-     preferDarkTheme="0"
+     preferDarkTheme="1"
      symbolicIcons="1"
      defaultPreferDarkTheme="0"
      defaultGtkTheme="Breeze"
