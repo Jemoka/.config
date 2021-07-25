@@ -1,6 +1,5 @@
 #!/bin/zsh
 
-export GTK_SCALE=2
 export QT_AUTO_SCREEN_SCALE_FACTOR=1
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
@@ -17,13 +16,12 @@ sxhkd &
 [[ -f ~/.Xmodmap ]] && xmodmap ~/.Xmodmap
 xrdb -merge ~/.Xresources
 fcitx &
-wal -i ~/Resources/wallpaper_sharpglass.jpg &
+wal -i ~/Resources/wallpaper_trianges.png &
 # syncthing &
 flameshot &
 dunst &
 # xiccd &
 udiskie &
-light-locker &
 lxpolkit &
 autorandr --change
 ~/.config/polybar/bar.sh
