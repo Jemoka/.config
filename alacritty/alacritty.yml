@@ -27,6 +27,9 @@ colors:
     cyan: '#9debcf'
     white: '#ffffff'
 font:
+  offset:
+    x: 0
+    y: 0
   # The normal (roman) font face to use.
   normal:
     family: Hack

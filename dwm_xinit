@@ -24,6 +24,7 @@ dunst &
 # xiccd &
 udiskie &
 light-locker &
+lxpolkit &
 autorandr --change
 ~/.config/polybar/bar.sh
 dwm > ~/.dwm.log

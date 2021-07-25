@@ -74,7 +74,6 @@ tray-background = ${colors.background}
 tray-maxsize = 1000
 
 bottom = false
-wm-restack = dwm
 override-redirect = false
 
 cursor-click = pointer
