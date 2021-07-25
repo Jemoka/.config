@@ -1,0 +1,24 @@
+<!--
+WARNING: THIS IS AN AUTO-GENERATED FILE. CHANGES TO IT ARE LIKELY TO BE
+OVERWRITTEN AND LOST. Changes to this xml configuration should be made using:
+  virsh pool-edit gnome-boxes
+or other application using the libvirt API.
+-->
+
+<pool type='dir'>
+  <name>gnome-boxes</name>
+  <uuid>148e2e8d-ae7d-40de-99dc-71a0fa81daa0</uuid>
+  <capacity unit='bytes'>0</capacity>
+  <allocation unit='bytes'>0</allocation>
+  <available unit='bytes'>0</available>
+  <source>
+  </source>
+  <target>
+    <path>/home/hliu/.local/share/gnome-boxes/images</path>
+    <permissions>
+      <mode>0744</mode>
+      <owner>1000</owner>
+      <group>1000</group>
+    </permissions>
+  </target>
+</pool>
