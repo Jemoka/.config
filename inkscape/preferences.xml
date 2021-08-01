@@ -130,13 +130,13 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="401.659"
-         height="99.0843" />
+         width="312.812"
+         height="7.30734" />
       <eventcontext
          id="3dbox"
          style="stroke:none;stroke-linejoin:round;"
          usecurrent="1"
-         persp="perspective12">
+         persp="perspective3169">
         <side
            id="XYfront"
            style="fill:#8686bf;stroke:none;stroke-linejoin:round;"
@@ -167,17 +167,23 @@
          style="fill:red;"
          end="0"
          start="0"
-         usecurrent="1" />
+         usecurrent="1"
+         rx="217.144"
+         ry="60.7423" />
       <eventcontext
          id="star"
          magnitude="5"
          style="fill:yellow;"
-         usecurrent="1" />
+         usecurrent="1"
+         randomized="0"
+         rounded="0"
+         proportion="0.5" />
       <eventcontext
          id="spiral"
          style="fill:none;stroke:black"
          expansion="1"
-         usecurrent="0" />
+         usecurrent="0"
+         revolution="3" />
     </group>
     <group
        id="freehand"
@@ -540,14 +546,16 @@
     <group
        id="toolbox" />
     <group
-       id="fillstroke" />
+       id="fillstroke"
+       page="1" />
     <group
        id="filtereffects" />
     <group
        id="textandfont" />
     <group
        id="transformation"
-       applyseparately="0" />
+       applyseparately="0"
+       rotateCounterClockwise="1" />
     <group
        id="align" />
     <group
@@ -958,7 +966,7 @@
      id="extensions" />
   <group
      id="desktop"
-     style="fill:#2b0000;-inkscape-font-specification:'Hack Bold';font-family:Hack;font-size:74.66666667px;font-weight:bold;">
+     style="fill:#0000ff;-inkscape-font-specification:'Hack Bold';font-family:Hack;font-size:74.66666667px;font-weight:bold;stroke:#000000;stroke-opacity:0.1599277">
     <group
        width="1378"
        height="798"

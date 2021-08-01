@@ -1354,6 +1354,9 @@
   <resource identifier="FontAwesome" checksum="(null)">
   </resource>
 
+  <resource identifier="Fontemon" checksum="(null)">
+  </resource>
+
   <resource identifier="FreeMono" checksum="(null)">
   </resource>
 
@@ -1427,6 +1430,690 @@
   </resource>
 
   <resource identifier="Hack Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Mono weight=450 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Arabic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Arabic Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Arabic Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Arabic Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Arabic Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Arabic Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Arabic Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Arabic weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Semi-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, weight=450 Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Condensed, weight=450 Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Devanagari" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Devanagari Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Devanagari Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Devanagari Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Devanagari Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Devanagari Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Devanagari Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Devanagari weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans JP" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans JP Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans JP Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans JP Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans JP Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans JP Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans JP Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans JP weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans KR" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans KR Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans KR Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans KR Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans KR Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans KR Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans KR Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans KR weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Looped" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Looped Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Looped Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Looped Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Looped Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Looped Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Looped Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Looped weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thai weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans weight=450 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Serif weight=450 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Bold Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Bold Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Heavy Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Heavy Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Heavy Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Heavy Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Light Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Light Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Light Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Medium Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Medium Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Medium Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Semi-Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Semi-Bold Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Semi-Bold Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Thin Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Thin Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Thin Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Thin Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Bold Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Bold Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Light Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Light Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Custom Ultra-Light Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Bold Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Heavy Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Light Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Medium Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Semi-Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Semi-Bold Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Semi-Bold Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Thin Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Bold Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Bold Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light Italic Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Iosevka Term Ultra-Light Oblique Expanded" checksum="(null)">
   </resource>
 
   <resource identifier="Liberation Mono" checksum="(null)">
@@ -1550,6 +2237,9 @@
   </resource>
 
   <resource identifier="Nimbus Sans Narrow Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Color Emoji" checksum="(null)">
   </resource>
 
   <resource identifier="Open Sans" checksum="(null)">
