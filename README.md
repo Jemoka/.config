@@ -6,4 +6,4 @@
 - `legacy-macbooks` — older MacBooks not following the above description
 - `fastcalculator` — headless or minimally-graphical systems that, although has graphics facilities, are more minimial and tty focused
 
-The three configs actually share pretty similar code, but I am too lazy to find out the changes and create submodule-based or modular configs.
+The three configs actually share pretty similar code, but I haven't gotten around to find out the changes and create submodule-based or modular configs.
