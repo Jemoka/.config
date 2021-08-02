@@ -4,7 +4,7 @@
 . "${HOME}/.cache/wal/colors.sh"
 
 
-WALLPATH="${HOME}/Resources"
+WALLPATH="${HOME}/Documents/Resources/wallpapers/"
 SPLIT_WALLPAPERS=""
 
 for line in "$WALLPATH"/wallpaper*
@@ -14,7 +14,7 @@ done
 
 SPLIT_WALLPAPERS=$(echo "${SPLIT_WALLPAPERS}"|head -c -1)
 
-CHOSEN=$(echo "${SPLIT_WALLPAPERS}" | dmenu -p "Wallpaper" -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color15" -fn 'Hack Nerd Font:pixelsize=22:antialias=true:autohint=true' -i -g 0 -l 1000)
+CHOSEN=$(echo "${SPLIT_WALLPAPERS}" | dmenu -p "Wallpaper" -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color15" -fn 'Hack Nerd Font:pixelsize=14:antialias=true:autohint=true' -i -g 0 -l 1000)
 
 wal -i "$WALLPATH/$CHOSEN"
 

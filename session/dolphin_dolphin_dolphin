@@ -1,16 +1,16 @@
 [1]
-Active Tab Index=0
-Tab Count=1
-Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00#file:///run/media/hliu/LT%20STORAGE\x00\x00\x00\x00\x01\x00\x00\x00.file:///run/media/hliu/LT%20STORAGE/.fseventsd\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x02\x16\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
-Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00Gfile:///mnt/storage/Projects/df-humza-is-now-zach/FINAL_POSE_DATA/video\x00\x00\x00\x00\x01\x00\x00\x00`file:///mnt/storage/Projects/df-humza-is-now-zach/FINAL_POSE_DATA/video/final_TestJSONDump10.mp4\x00\x00\x00\x01\x00\x00\x00`file:///mnt/storage/Projects/df-humza-is-now-zach/FINAL_POSE_DATA/video/final_TestJSONDump10.mp4\x00\x00\x00\x00\x00\x00\x08\x1f\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
-Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00\x1bfile:///home/hliu/Downloads\x00\x00\x00\x00\x01\x00\x00\x00Ufile:///home/hliu/Downloads/Dragonfruit_AI_-_Houjun_Liu_Consulting_Agreement_2021.pdf\x00\x00\x00\x01\x00\x00\x00Ufile:///home/hliu/Downloads/Dragonfruit_AI_-_Houjun_Liu_Consulting_Agreement_2021.pdf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x02\x16\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Active Tab Index=2
+Tab Count=3
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00\x16baloosearch:/documents\x00\x00\x00\x00\x01\x00\x00\x00=file:///home/hliu/Documents/Programs/dwm-flexipatch/README.md\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x02*\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00\xaebaloosearch:?json=%7B%22includeFolder%22:%22/home/hliu/Downloads%22,%22searchString%22:%22Chromium%22,%22type%22:[%22Document%22]%7D&title=Query%20Results%20from%20'Chromium'\x00\x00\x00\x00\x01\x00\x00\x00Afile:///home/hliu/Downloads/ranger-1.8.1/ranger/config/rifle.conf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x02*\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00\xd0baloosearch:?json=%7B%22includeFolder%22:%22/home/hliu/Documents/Official%20Docs/Family-Personal%22,%22searchString%22:%221password%22,%22type%22:[%22Document%22]%7D&title=Query%20Results%20from%20'1password'\x00\x00\x00\x00\x01\x00\x00\x00[file:///home/hliu/Documents/Official%20Docs/Family-Personal/1Password%20Emergency%20Kit.pdf\x00\x00\x00\x01\x00\x00\x00[file:///home/hliu/Documents/Official%20Docs/Family-Personal/1Password%20Emergency%20Kit.pdf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 Tab Data 3=\x00\x00\x00\x02\x00\x00\x00\x00\x16file:///home/hliu/Misc\x00\x00\x00\x00\x01\x00\x00\x006file:///home/hliu/Misc/system_etc_var_07072021.tar.zst\x00\x00\x00\x01\x00\x00\x006file:///home/hliu/Misc/system_etc_var_07072021.tar.zst\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x02\x16\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
 [WindowProperties1]
 ClassName=DolphinMainWindow
 ObjectName=Dolphin#1
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAwAAAAAAAAC/AAACIvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAABOAAACIgAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAD0QAAAiIAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAwAAAAAAAABXAAACzPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAABWAAACzAAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAACTQAAAswAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 eDP-1 DP-2 Height 1200x675=624
 eDP-1 DP-2 Height 1280x800=749
 eDP-1 DP-2 Height 1600x900=809
@@ -24,21 +24,21 @@ eDP-1 DP-2 YPosition 1200x675=160
 eDP-1 DP-2 YPosition 1280x800=35
 eDP-1 DP-2 YPosition 1600x900=45
 eDP-1 HDMI-1 Height 1440x900=798
-eDP-1 HDMI-1 Height 1600x900=798
+eDP-1 HDMI-1 Height 1600x900=802
 eDP-1 HDMI-1 Width 1440x900=1378
-eDP-1 HDMI-1 Width 1600x900=526
+eDP-1 HDMI-1 Width 1600x900=677
 eDP-1 HDMI-1 XPosition 1440x900=1631
-eDP-1 HDMI-1 XPosition 1600x900=1041
+eDP-1 HDMI-1 XPosition 1600x900=31
 eDP-1 HDMI-1 YPosition 1440x900=51
-eDP-1 HDMI-1 YPosition 1600x900=50
+eDP-1 HDMI-1 YPosition 1600x900=67
 eDP-1 Height 1280x800=749
-eDP-1 Height 1440x900=798
+eDP-1 Height 1440x900=808
 eDP-1 Width 1280x800=1249
 eDP-1 Width 1440x900=1378
 eDP-1 XPosition 1280x800=16
 eDP-1 XPosition 1440x900=30
 eDP-1 YPosition 1280x800=36
-eDP-1 YPosition 1440x900=50
+eDP-1 YPosition 1440x900=60
 eDP1 HDMI1 Height 1440x900=803
 eDP1 HDMI1 Width 1440x900=1378
 eDP1 HDMI1 XPosition 1440x900=30
