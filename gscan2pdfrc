@@ -129,6 +129,7 @@
    "set_timestamp" : 1,
    "subject" : "",
    "subject-suggestions" : [],
+   "text_position" : "behind",
    "threshold tool" : 80,
    "threshold-before-ocr" : "",
    "thumb panel" : 100,
@@ -148,7 +149,7 @@
    "user_defined_tools" : [
       "gimp %i"
    ],
-   "version" : "2.10.2",
+   "version" : "2.12.2",
    "view files toggle" : 1,
    "viewer_tools" : 100,
    "visible-scan-options" : {
@@ -179,9 +180,9 @@
       "x" : 1,
       "y" : 1
    },
-   "window_height" : 798,
+   "window_height" : 802,
    "window_maximize" : 1,
-   "window_width" : 1378,
+   "window_width" : 1538,
    "window_x" : 30,
-   "window_y" : 50
+   "window_y" : 66
 }

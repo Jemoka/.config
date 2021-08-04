@@ -39,6 +39,7 @@ fi
 zplug load
 
 PATH="/home/hliu/.zplug/bin:/opt/resolve/bin/:/usr/local/sbin:/usr/local/bin:/usr/bin"
+PATH="$HOME/.local/bin:$PATH"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh

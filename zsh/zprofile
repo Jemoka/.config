@@ -2,4 +2,5 @@ export EDITOR="nvim"
 alias sonywebcam="gphoto2 --stdout --capture-movie | ffmpeg -i - -vcodec rawvideo -pix_fmt yuv420p -threads 0 -f v4l2 /dev/video1 2>&1 | tee -a /tmp/sonywebcam.log & disown"
 alias tarsystem='sudo tar --exclude "/var/log" --exclude "/var/lib/docker" --exclude "/var/cache" -I zstd -cvf system-etc_var.tar.zst /var /etc'
 alias dfintern='ssh -D 9998 hliu@66.128.151.12'
+alias dfnotebooks='ssh -N -f -L 8888:localhost:8888 ubuntu@66.128.151.12'
 alias bluetoothify='sudo hciconfig hci0 lm ACCEPT,MASTER; sudo hciconfig hci0 lp HOLD,SNIFF,PARK'
