@@ -14,7 +14,6 @@ nm-applet &
 picom &
 # slstatus &
 sxhkd &
-[[ -f ~/.Xmodmap ]] && xmodmap ~/.Xmodmap
 xrdb -merge ~/.Xresources
 fcitx &
 wal -i ~/Resources/wallpaper_sharpglass.jpg &
