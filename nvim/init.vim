@@ -72,6 +72,7 @@ Plug 'robertbasic/vim-hugo-helper'
 Plug 'KeitaNakamura/tex-conceal.vim'
 
 "#NEW lANGUAGES#"
+Plug 'Olical/conjure', {'tag': 'v4.22.1'}
 Plug 'lervag/vimtex'
 Plug 'ianks/vim-tsx'
 Plug 'MaxMEllon/vim-jsx-pretty'
