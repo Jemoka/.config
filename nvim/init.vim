@@ -36,6 +36,9 @@ Plug 'rakr/vim-one'
 
 "#DEVELOPER TOOLS#"
 Plug 'cespare/vim-toml'
+Plug 'tpope/vim-dispatch'
+Plug 'clojure-vim/vim-jack-in'
+Plug 'radenling/vim-dispatch-neovim'
 Plug 'jceb/vim-orgmode'
 Plug 'tpope/vim-repeat'
 Plug 'honza/vim-snippets'
