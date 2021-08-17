@@ -48,7 +48,7 @@
    "convert whitespace to underscores" : "",
    "current_psh" : null,
    "current_udt" : "gimp %i",
-   "cwd" : "/home/hliu/Desktop",
+   "cwd" : "/home/hliu/Documents/SchoolWork/2021-2022",
    "cycle sane handle" : "",
    "datetime offset" : [
       0,
@@ -61,16 +61,23 @@
    "default-scan-options" : {
       "backend" : [
          {
-            "resolution" : "300"
-         },
-         {
             "br-x" : 216
          },
          {
             "br-y" : 279
+         },
+         {
+            "source" : "Automatic Document Feeder"
+         },
+         {
+            "resolution" : "300"
+         },
+         {
+            "mode" : "Gray"
          }
       ],
       "frontend" : {
+         "num_pages" : 0,
          "paper" : "US Letter"
       }
    },
@@ -107,7 +114,14 @@
    "keywords" : "",
    "keywords-suggestions" : [],
    "libimage-sane-perl version" : "5",
-   "message" : {},
+   "message" : {
+      "Warning: missing packages\nPDF encryption requires pdftk" : {
+         "response" : "ok"
+      },
+      "pdftk is installed, but cannot access the directory used for temporary files.One reason for this might be that pdftk was installed via snap.In this case, removing pdftk, and reinstalling without using snap would allow gscan2pdf to use pdftk.Another workaround would be to select a temporary directory under your home directory in Edit/Preferences." : {
+         "response" : "ok"
+      }
+   },
    "message_window_height" : 200,
    "message_window_width" : 600,
    "ocr engine" : "gocr",
@@ -123,9 +137,14 @@
    "rotate reverse" : 0,
    "scan prefix" : "",
    "scan-reload-triggers" : "mode",
-   "scan_window_height" : 143,
-   "scan_window_width" : 356,
-   "selection" : null,
+   "scan_window_height" : 505,
+   "scan_window_width" : 457,
+   "selection" : {
+      "height" : 241,
+      "width" : 103,
+      "x" : 698,
+      "y" : 832
+   },
    "set_timestamp" : 1,
    "subject" : "",
    "subject-suggestions" : [],
@@ -138,8 +157,25 @@
    "title-suggestions" : [],
    "to_png" : 1,
    "udt_on_scan" : "",
-   "unpaper on scan" : "",
-   "unpaper options" : null,
+   "unpaper on scan" : 1,
+   "unpaper options" : {
+      "black-threshold" : 0.33,
+      "border-margin" : "0,0",
+      "deskew-scan-direction" : "left,right",
+      "direction" : "ltr",
+      "layout" : "single",
+      "no-blackfilter" : "",
+      "no-blurfilter" : "",
+      "no-border-align" : "",
+      "no-border-scan" : "",
+      "no-deskew" : "",
+      "no-grayfilter" : "",
+      "no-mask-center" : "",
+      "no-mask-scan" : "",
+      "no-noisefilter" : "",
+      "output-pages" : 1,
+      "white-threshold" : 0.9
+   },
    "unsharp amount" : 1,
    "unsharp radius" : 0,
    "unsharp sigma" : 1,

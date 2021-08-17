@@ -1,9 +1,9 @@
 [1]
-Active Tab Index=0
-Tab Count=1
-Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00#file:///home/hliu/Documents/clojure\x00\x00\x00\x00\x01\x00\x00\x00\x89file:///home/hliu/Documents/clojure/Daniel%20Higginbotham%20-%20Clojure%20for%20the%20Brave%20and%20True-No%20Starch%20Press%20(2015).pdf\x00\x00\x00\x01\x00\x00\x00\x89file:///home/hliu/Documents/clojure/Daniel%20Higginbotham%20-%20Clojure%20for%20the%20Brave%20and%20True-No%20Starch%20Press%20(2015).pdf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
-Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00ffile:///home/hliu/Documents/Zoom/2021-08-04%2019.11.30%20Houjun%20Liu's%20Zoom%20Meeting%2075495554498\x00\x00\x00\x00\x01\x00\x00\x00qfile:///home/hliu/Documents/Zoom/2021-08-04%2019.11.30%20Houjun%20Liu's%20Zoom%20Meeting%2075495554498/zoom_0.mp4\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
-Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00ffile:///home/hliu/Documents/Zoom/2021-08-04%2020.27.34%20Houjun%20Liu's%20Zoom%20Meeting%2078494354005\x00\x00\x00\x00\x01\x00\x00\x00qfile:///home/hliu/Documents/Zoom/2021-08-04%2020.27.34%20Houjun%20Liu's%20Zoom%20Meeting%2078494354005/zoom_0.mp4\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Active Tab Index=2
+Tab Count=3
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00#file:///home/hliu/Documents/clojure\x00\x00\x00\x00\x01\x00\x00\x00\x89file:///home/hliu/Documents/clojure/Daniel%20Higginbotham%20-%20Clojure%20for%20the%20Brave%20and%20True-No%20Starch%20Press%20(2015).pdf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00#file:///home/hliu/Documents/clojure\x00\x00\x00\x00\x01\x00\x00\x00\x89file:///home/hliu/Documents/clojure/Daniel%20Higginbotham%20-%20Clojure%20for%20the%20Brave%20and%20True-No%20Starch%20Press%20(2015).pdf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 2=\x00\x00\x00\x02\x00\x00\x00\x00#file:///home/hliu/Documents/clojure\x00\x00\x00\x00\x01\x00\x00\x00\x89file:///home/hliu/Documents/clojure/Daniel%20Higginbotham%20-%20Clojure%20for%20the%20Brave%20and%20True-No%20Starch%20Press%20(2015).pdf\x00\x00\x00\x01\x00\x00\x00\x89file:///home/hliu/Documents/clojure/Daniel%20Higginbotham%20-%20Clojure%20for%20the%20Brave%20and%20True-No%20Starch%20Press%20(2015).pdf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 Tab Data 3=\x00\x00\x00\x02\x00\x00\x00\x00#file:///home/hliu/Downloads/clojure\x00\x00\x00\x00\x01\x00\x00\x00\x89file:///home/hliu/Downloads/clojure/Daniel%20Higginbotham%20-%20Clojure%20for%20the%20Brave%20and%20True-No%20Starch%20Press%20(2015).pdf\x00\x00\x00\x01\x00\x00\x00\x89file:///home/hliu/Downloads/clojure/Daniel%20Higginbotham%20-%20Clojure%20for%20the%20Brave%20and%20True-No%20Starch%20Press%20(2015).pdf\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 Tab Data 4=\x00\x00\x00\x02\x00\x00\x00\x00\x1bfile:///home/hliu/Documents\x00\x00\x00\x00\x01\x00\x00\x00$file:///home/hliu/Documents/Projects\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 Tab Data 5=\x00\x00\x00\x02\x00\x00\x00\x00?file:///home/hliu/Darktable/20210806_no_name/darktable_exported\x00\x00\x00\x00\x01\x00\x00\x00Qfile:///home/hliu/Darktable/20210806_no_name/darktable_exported/20210806_0001.jpg\x00\x00\x00\x01\x00\x00\x00Qfile:///home/hliu/Darktable/20210806_no_name/darktable_exported/20210806_0001.jpg\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
@@ -12,7 +12,7 @@ Tab Data 5=\x00\x00\x00\x02\x00\x00\x00\x00?file:///home/hliu/Darktable/20210806
 ClassName=DolphinMainWindow
 ObjectName=Dolphin#1
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAwAAAAAAAABXAAACzPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAABWAAACzAAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAFCgAAAswAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+State=AAAA/wAAAAD9AAAAAwAAAAAAAABXAAACzPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAABWAAACzAAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAACjAAAAswAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 eDP-1 DP-2 Height 1200x675=624
 eDP-1 DP-2 Height 1280x800=749
 eDP-1 DP-2 Height 1600x900=809
@@ -28,17 +28,17 @@ eDP-1 DP-2 YPosition 1600x900=45
 eDP-1 HDMI-1 Height 1440x900=802
 eDP-1 HDMI-1 Height 1600x900=802
 eDP-1 HDMI-1 Width 1440x900=740
-eDP-1 HDMI-1 Width 1600x900=526
+eDP-1 HDMI-1 Width 1600x900=979
 eDP-1 HDMI-1 XPosition 1440x900=1630
-eDP-1 HDMI-1 XPosition 1600x900=1042
+eDP-1 HDMI-1 XPosition 1600x900=589
 eDP-1 HDMI-1 YPosition 1440x900=66
 eDP-1 HDMI-1 YPosition 1600x900=67
 eDP-1 Height 1280x800=749
 eDP-1 Height 1440x900=802
 eDP-1 Width 1280x800=1249
-eDP-1 Width 1440x900=1378
+eDP-1 Width 1440x900=740
 eDP-1 XPosition 1280x800=16
-eDP-1 XPosition 1440x900=31
+eDP-1 XPosition 1440x900=668
 eDP-1 YPosition 1280x800=36
 eDP-1 YPosition 1440x900=67
 eDP1 HDMI1 Height 1440x900=803
