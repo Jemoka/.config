@@ -275,9 +275,6 @@ nmap <silent> <leader>jd <Plug>(jsdoc)
 "#Vim-R#"
 let R_assign = 0
 
-"#Slimv#"
-let g:slimv_leader = 'r'
-
 "#Hugo#"
 noremap <Leader>hn :HugoHelperDateIsNow<CR>
 noremap <Leader>hd :HugoHelperDraft<CR>
