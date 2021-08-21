@@ -33,7 +33,7 @@ alt - l: yabai -m window --resize left:60:0; yabai -m window --resize right:60:0
 alt + shift - c: osascript -e 'tell application "System Events" to perform action "AXPress" of (first button whose subrole is "AXCloseButton") of (first window whose subrole is "AXStandardWindow") of (first process whose frontmost is true)'
 
 # opening iterm
-cmd + shift - return: osascript -e 'tell application "iTerm2"' -e 'set newWindow to (create window with default profile)' -e 'end tell'
+alt + shift - return: osascript -e 'tell application "iTerm2"' -e 'set newWindow to (create window with default profile)' -e 'end tell'
 
 
 # display
