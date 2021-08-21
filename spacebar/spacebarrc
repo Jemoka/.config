@@ -7,4 +7,12 @@ spacebar -m config right_shell          on
 spacebar -m config power_icon_strip      
 spacebar -m config right_shell_icon     
 spacebar -m config right_shell_command  "$HOME/.config/spacebar/toggl.sh"
+spacebar -m config background_color     0xb0145587
+spacebar -m config foreground_color     0xffededed
+spacebar -m config power_icon_color     0xffa7d3fa
+spacebar -m config right_shell_icon_color     0xffa7d3fa
+spacebar -m config clock_icon_color     0xffa7d3fa
+spacebar -m config space_icon_color     0xff7ba9e3
+spacebar -m config text_font            "IBM Plex Mono:Regular:12.0"
+
 
