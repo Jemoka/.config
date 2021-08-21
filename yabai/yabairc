@@ -43,8 +43,7 @@ yabai -m config window_shadow                on
 yabai -m config window_border                off
 
 # Focus follow mouse
-yabai -m config focus_follows_mouse          on
-yabai -m config mouse_follows_focus          off
+yabai -m config focus_follows_mouse autoraise
 
 # Refresh spaces widget on space change
 yabai -m signal --add event=space_changed action="osascript -e 'tell application id \"tracesOf.Uebersicht\" to refresh widget id \"simple-bar-spaces-jsx\"'"
