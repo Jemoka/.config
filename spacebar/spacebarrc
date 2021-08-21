@@ -1,5 +1,6 @@
 #!/usr/bin/env zsh
 
+spacebar -m config height               23
 spacebar -m config clock                on
 spacebar -m config power                on
 spacebar -m config spacing_left         20
