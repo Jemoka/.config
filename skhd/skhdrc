@@ -58,6 +58,9 @@ alt + shift - 8: yabai -m window --space $(yabai -m query --displays --display |
 alt + shift - 9: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[8]')
 alt + shift - 0: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[9]')
 
+# finder
+cmd + shift - return: open $HOME
+
 # display
 #ctrl - k: yabai -m display --focus next
 #ctrl - j: yabai -m display --focus prev
