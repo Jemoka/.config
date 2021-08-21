@@ -182,7 +182,7 @@
             "simple_modifications": [
                 {
                     "from": {
-                        "key_code": "right_option"
+                        "key_code": "right_command"
                     },
                     "to": [
                         {
@@ -192,7 +192,7 @@
                 },
                 {
                     "from": {
-                        "key_code": "right_command"
+                        "key_code": "right_option"
                     },
                     "to": [
                         {

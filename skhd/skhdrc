@@ -35,6 +35,15 @@ alt + shift - c: osascript -e 'tell application "System Events" to perform actio
 # opening iterm
 alt + shift - return: osascript -e 'tell application "iTerm2"' -e 'set newWindow to (create window with default profile)' -e 'end tell'
 
+# moving around
+alt - 1: yabai -m space --focus 1
+alt - 2: yabai -m space --focus 2
+alt - 3: yabai -m space --focus 3
+alt - 4: yabai -m space --focus 4
+alt - 7: yabai -m space --focus 5
+alt - 8: yabai -m space --focus 6
+alt - 9: yabai -m space --focus 7
+alt - 0: yabai -m space --focus 8
 
 # display
 #ctrl - k: yabai -m display --focus next
