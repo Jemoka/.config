@@ -3,3 +3,4 @@ alias sonywebcam="gphoto2 --stdout --capture-movie | ffmpeg -i - -vcodec rawvide
 alias tarsystem='sudo tar --exclude "/var/log" --exclude "/var/lib/docker" --exclude "/var/cache" -I zstd -cvf system-etc_var.tar.zst /var /etc'
 alias dfintern='ssh -D 9998 hliu@66.128.151.12'
 alias bluetoothify='sudo hciconfig hci0 lm ACCEPT,MASTER; sudo hciconfig hci0 lp HOLD,SNIFF,PARK'
+eval "$(/opt/homebrew/bin/brew shellenv)"

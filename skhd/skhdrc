@@ -1,0 +1,51 @@
+### Yabai ###
+# focusing windows
+ctrl + alt - h: yabai -m window --focus west
+ctrl + alt - j: yabai -m window --focus south
+ctrl + alt - k: yabai -m window --focus north
+ctrl + alt - l: yabai -m window --focus east
+
+# unlock/Lock
+ctrl + alt - f: yabai -m window --toggle float
+
+# swapping windows
+shift + alt - h: yabai -m window --warp west
+shift + alt - j: yabai -m window --warp south
+shift + alt - k: yabai -m window --warp north
+shift + alt - l: yabai -m window --warp east
+
+# toggle horizontal/vertical split
+shift + alt - s: yabai -m window --toggle split
+
+# toggle float
+shift + alt - f: yabai -m config layout float
+shift + alt - m: yabai -m config layout bsp
+
+# moving spaces
+ctrl + shift - h: yabai -m window --space prev
+ctrl + shift - l: yabai -m window --space next
+
+# resizing windows
+alt - h: yabai -m window --resize right:-60:0; yabai -m window --resize left:-60:0
+alt - l: yabai -m window --resize left:60:0; yabai -m window --resize right:60:0
+
+# killing windows
+alt + shift - c: osascript -e 'tell application "System Events" to perform action "AXPress" of (first button whose subrole is "AXCloseButton") of (first window whose subrole is "AXStandardWindow") of (first process whose frontmost is true)'
+
+# display
+#ctrl - k: yabai -m display --focus next
+#ctrl - j: yabai -m display --focus prev
+
+### Kitty ###
+# alt + shift - return: kitty --single-instance -d ~
+ctrl + alt - n: open -a iTerm .
+
+### Emacs Daemon ###
+ctrl + alt - s: /Applications/Emacs.app/Contents/MacOS/Emacs --daemon
+ctrl + alt - e: /System/Volumes/Data/usr/local/Cellar/emacs-head@28/28.0.50_1/bin/emacsclient -n -c --alternate-editor="" -- "$@"
+ctrl + alt - k: /Applications/Emacs.app/Contents/MacOS/bin/emacsclient -e '(save-buffers-kill-emacs)'
+
+
+
+
+
