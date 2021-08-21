@@ -2,7 +2,7 @@
 
 # bsp or float (default: bsp)
 yabai -m config layout bsp
-yabai -m config top_padding    50
+yabai -m config top_padding    45
 yabai -m config bottom_padding 30 
 yabai -m config left_padding   30
 yabai -m config right_padding  30
