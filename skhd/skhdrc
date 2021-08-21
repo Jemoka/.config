@@ -22,8 +22,8 @@ shift + alt - f: yabai -m config layout float
 shift + alt - m: yabai -m config layout bsp
 
 # moving spaces
-ctrl + shift - h: yabai -m window --space prev
-ctrl + shift - l: yabai -m window --space next
+#ctrl + shift - h: yabai -m window --space prev
+#ctrl + shift - l: yabai -m window --space next
 
 # resizing windows
 alt - h: yabai -m window --resize right:-60:0; yabai -m window --resize left:-60:0
@@ -36,23 +36,27 @@ alt + shift - c: osascript -e 'tell application "System Events" to perform actio
 alt + shift - return: osascript -e 'tell application "iTerm2"' -e 'set newWindow to (create window with default profile)' -e 'end tell'
 
 # moving around
-alt - 1: yabai -m space --focus 1
-alt - 2: yabai -m space --focus 2
-alt - 3: yabai -m space --focus 3
-alt - 4: yabai -m space --focus 4
-alt - 7: yabai -m space --focus 5
-alt - 8: yabai -m space --focus 6
-alt - 9: yabai -m space --focus 7
-alt - 0: yabai -m space --focus 8
+alt - 1: yabai -m space --focus $(yabai -m query --displays --display | jq -er '.spaces[0]')
+alt - 2: yabai -m space --focus $(yabai -m query --displays --display | jq -er '.spaces[1]')
+alt - 3: yabai -m space --focus $(yabai -m query --displays --display | jq -er '.spaces[2]')
+alt - 4: yabai -m space --focus $(yabai -m query --displays --display | jq -er '.spaces[3]')
+alt - 5: yabai -m space --focus $(yabai -m query --displays --display | jq -er '.spaces[4]')
+alt - 6: yabai -m space --focus $(yabai -m query --displays --display | jq -er '.spaces[5]')
+alt - 7: yabai -m space --focus $(yabai -m query --displays --display | jq -er '.spaces[6]')
+alt - 8: yabai -m space --focus $(yabai -m query --displays --display | jq -er '.spaces[7]')
+alt - 9: yabai -m space --focus $(yabai -m query --displays --display | jq -er '.spaces[8]')
+alt - 0: yabai -m space --focus $(yabai -m query --displays --display | jq -er '.spaces[9]')
 
-alt + shift - 1: yabai -m window --space 1
-alt + shift - 2: yabai -m window --space 2
-alt + shift - 3: yabai -m window --space 3
-alt + shift - 4: yabai -m window --space 4
-alt + shift - 7: yabai -m window --space 5
-alt + shift - 8: yabai -m window --space 6
-alt + shift - 9: yabai -m window --space 7
-alt + shift - 0: yabai -m window --space 8
+alt + shift - 1: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[0]')
+alt + shift - 2: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[1]')
+alt + shift - 3: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[2]')
+alt + shift - 4: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[3]')
+alt + shift - 5: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[4]')
+alt + shift - 6: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[5]')
+alt + shift - 7: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[6]')
+alt + shift - 8: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[7]')
+alt + shift - 9: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[8]')
+alt + shift - 0: yabai -m window --space $(yabai -m query --displays --display | jq -er '.spaces[9]')
 
 # display
 #ctrl - k: yabai -m display --focus next
