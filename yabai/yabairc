@@ -38,6 +38,9 @@ yabai -m rule --add app=Adobe\ Audition manage=on
 # Geting Premiere to Tile
 yabai -m rule --add app=Premiere\ Pro manage=on
 
+# Getting Media Encoder to Tile
+yabai -m rule --add app=Adobe\ Media\ Encoder manage=on
+
 # Getting Toggle Track to NOT Tile
 yabai -m rule --add app=Toggl\ Track manage=off
 
