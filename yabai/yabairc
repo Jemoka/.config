@@ -32,6 +32,9 @@ yabai -m config mouse_action2 resize
 # Getting Emacs to Tile
 yabai -m rule --add app=Emacs manage=on
 
+# Getting audition to Tile
+yabai -m rule --add app=Adobe\ Audition manage=on
+
 # Geting Premiere to Tile
 yabai -m rule --add app=Premiere\ Pro manage=on
 
