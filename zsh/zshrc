@@ -20,6 +20,7 @@ bindkey jj vi-cmd-mode
 alias tmux="tmux -2"
 export ZSH_AUTOSUGGEST_STRATEGY="completion"
 export CPLUS_INCLUDE_PATH="/usr/include/qt/:$CPLUS_INCLUDE_PATH"
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
 
 export ZPLUG_HOME=~/.zplug/
 export ZPLUG_REPOS=~/.zplug/repos/ 

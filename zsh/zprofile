@@ -4,3 +4,24 @@ alias tarsystem='sudo tar --exclude "/var/log" --exclude "/var/lib/docker" --exc
 alias dfintern='ssh -D 9998 hliu@66.128.151.12'
 alias bluetoothify='sudo hciconfig hci0 lm ACCEPT,MASTER; sudo hciconfig hci0 lp HOLD,SNIFF,PARK'
 eval "$(/opt/homebrew/bin/brew shellenv)"
+
+# <Toggl Shortcuts>
+alias tstart="toggl start"
+alias tstop="toggl stop"
+alias tt="toggl continue"
+alias ttt="toggl continue Transition"
+alias ttb="toggl continue Biology"
+alias ttm="toggl continue Mealtime"
+alias tte="toggl continue Errands"
+alias ttcs="toggl continue Commute\ to\ School"
+alias ttch="toggl continue Commute\ to\ Home"
+alias ttsr="toggl continue Running"
+alias ttsw="toggl continue Swimming"
+alias tnowd="toggl now -d"
+alias tnowp="toggl now -o"
+alias tnow="toggl now"
+alias tlshead="toggl ls | head"
+alias t='toggl continue "$(toggl -s ls -f description | tail -n +2 | fzf)"'
+alias ts='toggl start -o "$(toggl -s projects ls -f name | tail -n +2 | fzf)" '
+# </Toggl Shortcuts>
+
