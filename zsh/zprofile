@@ -2,4 +2,6 @@ export EDITOR="nvim"
 alias sonywebcam="gphoto2 --stdout --capture-movie | ffmpeg -i - -vcodec rawvideo -pix_fmt yuv420p -threads 0 -f v4l2 /dev/video1 2>&1 | tee -a /tmp/sonywebcam.log & disown"
 alias tarsystem='sudo tar --exclude "/var/log" -I zstd -cvf system_etc_vartar.zst /var /etc'
 alias dfintern='ssh -D 9998 hliu@66.128.151.12'
+alias resolvetranscode='mkdir transcoded; for i in *.mp4; do ffmpeg -i "$i" -vcodec mjpeg -q:v 2 -acodec pcm_s16be -q:a 0 -f mov "transcoded/${i%.*}.mov"; done'
+alias resolve='/opt/resolve/bin/resolve &disown'
 export PATH="/opt/resolve/bin:${PATH}"
