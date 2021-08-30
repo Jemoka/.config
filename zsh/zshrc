@@ -20,7 +20,8 @@ bindkey jj vi-cmd-mode
 alias tmux="tmux -2"
 export ZSH_AUTOSUGGEST_STRATEGY="completion"
 export CPLUS_INCLUDE_PATH="/usr/include/qt/:$CPLUS_INCLUDE_PATH"
-export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+export PATH="/usr/local/bin:$PATH"
 
 export ZPLUG_HOME=~/.zplug/
 export ZPLUG_REPOS=~/.zplug/repos/ 
@@ -39,6 +40,9 @@ if ! zplug check; then
 fi
 zplug load
 
+export LDFLAGS="-L/opt/homebrew/opt/llvm/lib ${LDFLAGS}"
+export CPPFLAGS="-I/opt/homebrew/opt/llvm/include ${CPPFLAGS}"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+export PATH="/opt/homebrew/opt/llvm/bin:$PATH"

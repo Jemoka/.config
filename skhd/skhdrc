@@ -1,4 +1,4 @@
-### Yabai ###
+
 # focusing windows
 ctrl + alt - h: yabai -m window --focus west
 ctrl + alt - j: yabai -m window --focus south
@@ -70,11 +70,4 @@ cmd + shift - return: open $HOME
 ctrl + alt - n: open -a iTerm .
 
 ### Emacs Daemon ###
-ctrl + alt - s: /Applications/Emacs.app/Contents/MacOS/Emacs --daemon
-ctrl + alt - e: /System/Volumes/Data/usr/local/Cellar/emacs-head@28/28.0.50_1/bin/emacsclient -n -c --alternate-editor="" -- "$@"
-ctrl + alt - k: /Applications/Emacs.app/Contents/MacOS/bin/emacsclient -e '(save-buffers-kill-emacs)'
-
-
-
-
-
+cmd + shift - e: emacsclient -c -e "(toggle-scroll-bar -1)"
