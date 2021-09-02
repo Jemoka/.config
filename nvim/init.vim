@@ -3,6 +3,7 @@
 "" PROJECT: Quarter of Refinement ""
 ""             @jemoka            ""
 """"""""""""""""""""""""""""""""""""
+"" Deprecated?
 
 ""-=-=-=-=-=Plugin Setup=-=-=-=-=-"" 
 syntax on
